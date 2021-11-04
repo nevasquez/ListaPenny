@@ -1,44 +1,108 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 7:00PM ESPN+ Central Christian (KS) vs Tarleton (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3755902d-5ec6-4cde-b0d1-8b6e62dc5458/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301913" group-title="Eventos ESPN Plus",11-01-2021 7:00PM ESPN+ Central Christian (KS) vs Tarleton (M Basketball)
-http://allinonestr.fans:8080/1534179972/90837722/431866
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 7:00PM ESPN+ Brescia vs Murray State (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/369167b0-108d-423a-ad39-9afc7e49aba8/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301919" group-title="Eventos ESPN Plus",11-01-2021 7:00PM ESPN+ Brescia vs Murray State (M Basketball)
-http://allinonestr.fans:8080/1534179972/90837722/431865
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:30PM ESPN+ UL Monroe vs Troy (Sun Belt Women's Soccer Championship) (First Round)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0026320c-649e-4900-912f-7e923152003f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110312024" group-title="Eventos ESPN Plus",11-01-2021 6:30PM ESPN+ UL Monroe vs Troy (Sun Belt Women's Soccer Championship) (First Round)
-http://allinonestr.fans:8080/1534179972/90837722/431864
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Le Moyne vs Syracuse (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4c653708-5cfd-4fb4-962d-6f1ba1b2e3a0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301834" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Le Moyne vs Syracuse (M Basketball)
-http://allinonestr.fans:8080/1534179972/90837722/431863
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Johns Hopkins vs Loyola (MD) (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/29f4afbf-6fca-4b12-86a3-465120048dce/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301841" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Johns Hopkins vs Loyola (MD) (M Basketball)
-http://allinonestr.fans:8080/1534179972/90837722/431862
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ VMI vs Wofford (First Round) (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/45c39178-de36-4fec-9df7-251c94852012/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110312003" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ VMI vs Wofford (First Round) (M Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431861
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Drake vs Loyola Chicago (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/66a044de-0324-4330-8891-682bb32722f2/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301817" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Drake vs Loyola Chicago (W Volleyball)
-http://allinonestr.fans:8080/1534179972/90837722/431859
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Southern Illinois vs Evansville (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8078981b-ef76-46cc-9b14-9eeaffc6a409/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301816" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Southern Illinois vs Evansville (W Volleyball)
-http://allinonestr.fans:8080/1534179972/90837722/431858
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Charlotte vs Florida Atlantic (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1fa7fea7-557d-45c9-9086-9204124fc27c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301814" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Charlotte vs Florida Atlantic (First Round) (W Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431857
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 6:00PM ESPN+ Vermont vs Binghamton (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5306432e-a3b2-4ef1-9243-3ac749a083a9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301818" group-title="Eventos ESPN Plus",11-01-2021 6:00PM ESPN+ Vermont vs Binghamton (M Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431856
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 5:00PM ESPN+ Albany vs Stony Brook (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/191f7ab8-6746-411f-8abe-4dc9f5b28f55/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301652" group-title="Eventos ESPN Plus",11-01-2021 5:00PM ESPN+ Albany vs Stony Brook (M Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431855
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 5:00PM ESPN+ Travecca Nazarene vs Murray State (W Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/05b20aba-634a-4908-92d6-7662d7861db8/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301702" group-title="Eventos ESPN Plus",11-01-2021 5:00PM ESPN+ Travecca Nazarene vs Murray State (W Basketball)
-http://allinonestr.fans:8080/1534179972/90837722/431854
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 5:00PM ESPN+ Missouri State vs Indiana State (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d1dcb6f4-c4af-45f8-aaec-ae4371e9a4b8/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301651" group-title="Eventos ESPN Plus",11-01-2021 5:00PM ESPN+ Missouri State vs Indiana State (W Volleyball)
-http://allinonestr.fans:8080/1534179972/90837722/431853
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 4:00PM ESPN+ Merrimack vs Dartmouth (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/451d741c-f8bf-44b0-9ca8-4d7d04d9a9e2/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301649" group-title="Eventos ESPN Plus",11-01-2021 4:00PM ESPN+ Merrimack vs Dartmouth (W Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431851
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 4:00PM ESPN+ Little Rock vs Louisiana (Sun Belt Women's Soccer Championship) (First Round)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1719eb67-600f-45e9-bd73-0511a6aebbb3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111011224" group-title="Eventos ESPN Plus",11-01-2021 4:00PM ESPN+ Little Rock vs Louisiana (Sun Belt Women's Soccer Championship) (First Round)
-http://allinonestr.fans:8080/1534179972/90837722/431850
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 3:30PM ESPN+ North Texas vs UTSA (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d6f1b421-34c7-455e-a73b-4781e2e998b7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110301642" group-title="Eventos ESPN Plus",11-01-2021 3:30PM ESPN+ North Texas vs UTSA (First Round) (W Soccer)
-http://allinonestr.fans:8080/1534179972/90837722/431849
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 2:50PM ESPN+ Levante vs Granada (LaLiga)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c3c15891-57c8-46d9-a3b8-8892d35ece4d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110261857" group-title="Eventos ESPN Plus",11-01-2021 2:50PM ESPN+ Levante vs Granada (LaLiga)
-http://allinonestr.fans:8080/1534179972/90837722/431847
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 1:30PM ESPN+ Texas St vs App St (Sun Belt Women's Soccer Championship) (First Round)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ba59a153-fa63-4fbf-a6ab-d899805b562e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111011224" group-title="Eventos ESPN Plus",11-01-2021 1:30PM ESPN+ Texas St vs App St (Sun Belt Women's Soccer Championship) (First Round)
-http://allinonestr.fans:8080/1534179972/90837722/431843
-#EXTINF:-1 tvg-id="" tvg-name="11-01-2021 12:00PM ESPN+ In Spanish - Rayo Vallecano vs Celta de Vigo (LaLiga)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf71d00f-84b7-4026-b868-35ac1ffe56d7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110282040" group-title="Eventos ESPN Plus",11-01-2021 12:00PM ESPN+ In Spanish - Rayo Vallecano vs Celta de Vigo (LaLiga)
-http://allinonestr.fans:8080/1534179972/90837722/431841
-#EXTINF:-1 tvg-id="" tvg-name="Ufc" tvg-logo="" group-title="Eventos",Ufc
-http://allinonestr.fans:8080/1534179972/90837722/431598
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Teleformula" tvg-logo="" group-title="Mexico HD",IZMX | Teleformula
+http://allinonestr.fans:8080/1534179972/90837722/433057
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | DogTv" tvg-logo="" group-title="Mexico HD",IZMX | DogTv
+http://allinonestr.fans:8080/1534179972/90837722/433056
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Tv UNAM" tvg-logo="" group-title="Mexico HD",IZMX | Tv UNAM
+http://allinonestr.fans:8080/1534179972/90837722/433055
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Adrenalina" tvg-logo="" group-title="Mexico HD",IZMX | Adrenalina
+http://allinonestr.fans:8080/1534179972/90837722/433054
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Real Madrid" tvg-logo="" group-title="Mexico HD",IZMX | Real Madrid
+http://allinonestr.fans:8080/1534179972/90837722/433053
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Glitz" tvg-logo="" group-title="Mexico HD",IZMX | Glitz
+http://allinonestr.fans:8080/1534179972/90837722/433052
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Space" tvg-logo="" group-title="Mexico HD",IZMX | Space
+http://allinonestr.fans:8080/1534179972/90837722/433051
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 9:00PM ESPN+ UC Riverside vs Cal Poly (First Round) (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/37a0ce70-69e2-4747-949c-05c43bcac225/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022152" group-title="Eventos ESPN Plus",11-03-2021 9:00PM ESPN+ UC Riverside vs Cal Poly (First Round) (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432684
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 8:00PM ESPN+ Columbus Blue Jackets vs Colorado Avalanche" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/73c32ac3-df94-4413-a383-00bda29a4362/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111021936" group-title="Eventos ESPN Plus",11-03-2021 8:00PM ESPN+ Columbus Blue Jackets vs Colorado Avalanche
+http://allinonestr.fans:8080/1534179972/90837722/432681
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 8:00PM ESPN+ In Spanish - Austin FC vs Sporting Kansas City (MLS)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0ece19c9-46a2-4971-95b3-41b72060a45c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022016" group-title="Eventos ESPN Plus",11-03-2021 8:00PM ESPN+ In Spanish - Austin FC vs Sporting Kansas City (MLS)
+http://allinonestr.fans:8080/1534179972/90837722/432679
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 7:00PM ESPN+ Emporia State vs #3 Kansas (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1778f29f-a477-4627-b68e-a33da4ef9cab/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110310056" group-title="Eventos ESPN Plus",11-03-2021 7:00PM ESPN+ Emporia State vs #3 Kansas (M Basketball)
+http://allinonestr.fans:8080/1534179972/90837722/432674
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 7:00PM ESPN+ SE Louisiana vs Texas A&M - CC (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ee796a03-5333-478a-a53b-6da1458c99cd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302102" group-title="Eventos ESPN Plus",11-03-2021 7:00PM ESPN+ SE Louisiana vs Texas A&M - CC (First Round) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432672
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 7:00PM ESPN+ Weber State vs Idaho State (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/399abf4d-e00a-4bdf-98d1-dbe1198f95df/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302102" group-title="Eventos ESPN Plus",11-03-2021 7:00PM ESPN+ Weber State vs Idaho State (W Volleyball)
+http://allinonestr.fans:8080/1534179972/90837722/432671
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 7:00PM ESPN+ Sam Houston vs Utah Valley (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7193f49-c469-4e6a-babb-f5860bce2329/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110311851" group-title="Eventos ESPN Plus",11-03-2021 7:00PM ESPN+ Sam Houston vs Utah Valley (First Round) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432670
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:30PM ESPN+ New York Red Bulls vs Atlanta United" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/78c82d6e-8da3-4f01-a3a3-594c35346c24/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022015" group-title="Eventos ESPN Plus",11-03-2021 6:30PM ESPN+ New York Red Bulls vs Atlanta United
+http://allinonestr.fans:8080/1534179972/90837722/432668
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:30PM ESPN+ Coastal Carolina vs Georgia Southern (Quarterfinal)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c0314cb2-ed70-44da-bcba-14f4d2a489ac/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022150" group-title="Eventos ESPN Plus",11-03-2021 6:30PM ESPN+ Coastal Carolina vs Georgia Southern (Quarterfinal)
+http://allinonestr.fans:8080/1534179972/90837722/432667
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:30PM ESPN+ CF Montréal vs Houston Dynamo " tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/832ce687-c4ef-48b7-bc8e-165056345780/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022014" group-title="Eventos ESPN Plus",11-03-2021 6:30PM ESPN+ CF Montréal vs Houston Dynamo 
+http://allinonestr.fans:8080/1534179972/90837722/432666
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ USC Upstate vs Presbyterian (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3f827f5b-fa47-4b7d-9f02-2a912d1ef2ef/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302059" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ USC Upstate vs Presbyterian (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432665
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Lehigh vs Colgate (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4b633b33-d71d-4b5f-a6f8-fbf87501a56f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302056" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Lehigh vs Colgate (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432664
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Canisius vs Niagara (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7508b74-53aa-4235-a277-1a72360c53be/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302057" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Canisius vs Niagara (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432663
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ West Georgia vs Louisville (M Basketball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a70bb5d6-41d8-4e0b-872f-a5b4a085408e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110310053" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ West Georgia vs Louisville (M Basketball)
+http://allinonestr.fans:8080/1534179972/90837722/432662
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Florida Atlantic vs Southern Miss (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ea293325-c1e6-4a86-a9e7-d753279499d1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111021527" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Florida Atlantic vs Southern Miss (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432661
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ The Citadel vs Furman (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49465d45-4677-48f6-a961-a3cac3a59e49/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302055" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ The Citadel vs Furman (W Volleyball)
+http://allinonestr.fans:8080/1534179972/90837722/432660
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ College of Charleston vs Coastal Carolina (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/43f17320-e2cf-429d-99bb-83a12cf10fab/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302059" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ College of Charleston vs Coastal Carolina (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432659
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Army vs Lafayette (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/64914fe1-56d8-4b1d-af5c-b155a8eea100/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302056" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Army vs Lafayette (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432658
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Marist vs Fairfield (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bb1446e1-0b66-46ff-9747-0c0ccb458e6a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302058" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Marist vs Fairfield (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432657
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 6:00PM ESPN+ Loyola (MD) vs Bucknell (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e6c22f9d-aea0-480b-a734-82f8efbcb1e4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302057" group-title="Eventos ESPN Plus",11-03-2021 6:00PM ESPN+ Loyola (MD) vs Bucknell (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432656
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 5:30PM ESPN+ Wed 11/3  -  Bundesliga Weekly Highlight Show" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f98f31e7-957a-42db-ae49-033a075d8ed0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="Eventos ESPN Plus",11-03-2021 5:30PM ESPN+ Wed 11/3  -  Bundesliga Weekly Highlight Show
+http://allinonestr.fans:8080/1534179972/90837722/432655
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 5:00PM ESPN+ Holy Cross vs Boston University (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fc7d9e7c-6d4f-4009-93e8-95cea224f560/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302050" group-title="Eventos ESPN Plus",11-03-2021 5:00PM ESPN+ Holy Cross vs Boston University (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432654
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 5:00PM ESPN+ Winthrop vs Gardner - Webb (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4780c6a6-36bb-41a8-8b7a-bf2ebbb67563/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302051" group-title="Eventos ESPN Plus",11-03-2021 5:00PM ESPN+ Winthrop vs Gardner - Webb (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432653
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 5:00PM ESPN+ High Point vs UNC Asheville (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5ca32260-4e9f-4a63-ab5b-9ac40d0c90e7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302050" group-title="Eventos ESPN Plus",11-03-2021 5:00PM ESPN+ High Point vs UNC Asheville (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432652
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 5:00PM ESPN+ St Francis (BKN) vs Yale (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9c75187f-e330-4458-8cd7-614b959f425d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111012246" group-title="Eventos ESPN Plus",11-03-2021 5:00PM ESPN+ St Francis (BKN) vs Yale (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432651
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 4:00PM ESPN+ New Mexico State vs Lamar (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b3bc9200-63ce-4b8f-9b87-70dcd76cf7a9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110311855" group-title="Eventos ESPN Plus",11-03-2021 4:00PM ESPN+ New Mexico State vs Lamar (First Round) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432650
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 4:00PM ESPN+ Houston Baptist vs Incarnate Word (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3ac5441e-2031-4b81-8fd4-bc3c204e7971/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302049" group-title="Eventos ESPN Plus",11-03-2021 4:00PM ESPN+ Houston Baptist vs Incarnate Word (First Round) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432649
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 4:00PM ESPN+ UL Monroe vs Arkansas State (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/013592e3-a25e-4bde-a4d9-3f9e3bb73115/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022154" group-title="Eventos ESPN Plus",11-03-2021 4:00PM ESPN+ UL Monroe vs Arkansas State (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432648
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 3:30PM ESPN+ UAB vs Western Kentucky (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4879aa69-574f-4dac-8ff7-2089eef9b378/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111021524" group-title="Eventos ESPN Plus",11-03-2021 3:30PM ESPN+ UAB vs Western Kentucky (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432647
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 3:00PM ESPN+ Idaho vs Weber State (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/24cccd78-d92b-496e-8edd-57027996b401/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302046" group-title="Eventos ESPN Plus",11-03-2021 3:00PM ESPN+ Idaho vs Weber State (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432643
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 2:40PM ESPN+ Blackburn Rovers vs Fulham (English League Championship)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/df4a4ffd-2261-43d5-9308-434b7e3317a9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110312334" group-title="Eventos ESPN Plus",11-03-2021 2:40PM ESPN+ Blackburn Rovers vs Fulham (English League Championship)
+http://allinonestr.fans:8080/1534179972/90837722/432642
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:30PM ESPN+ Little Rock vs South Alabama  (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ca5378b4-cc9b-4ca0-9c22-ae1e216df035/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022153" group-title="Eventos ESPN Plus",11-03-2021 1:30PM ESPN+ Little Rock vs South Alabama  (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432639
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:00PM ESPN+ Wright State vs Detroit Mercy (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4bea4bb0-e999-4198-a6cc-62298b8004e5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302043" group-title="Eventos ESPN Plus",11-03-2021 1:00PM ESPN+ Wright State vs Detroit Mercy (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432638
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:00PM ESPN+ SMU vs Memphis (W Volleyball)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/00bfd8fa-ff23-44a9-a29c-04b020689b1d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302044" group-title="Eventos ESPN Plus",11-03-2021 1:00PM ESPN+ SMU vs Memphis (W Volleyball)
+http://allinonestr.fans:8080/1534179972/90837722/432637
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:00PM ESPN+ Oakland vs Northern Kentucky (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/165500c6-7ff3-41c4-9c55-200e676dc997/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302041" group-title="Eventos ESPN Plus",11-03-2021 1:00PM ESPN+ Oakland vs Northern Kentucky (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432636
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:00PM ESPN+ Nicholls vs McNeese (First Round) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/855952e4-f811-444e-88fe-4f3eeb3a49c9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302040" group-title="Eventos ESPN Plus",11-03-2021 1:00PM ESPN+ Nicholls vs McNeese (First Round) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432635
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 1:00PM ESPN+ Purdue Fort Wayne vs Milwaukee (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/89e23e31-2f0b-4ebf-8e51-a80d4ce701ae/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302043" group-title="Eventos ESPN Plus",11-03-2021 1:00PM ESPN+ Purdue Fort Wayne vs Milwaukee (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432634
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 12:30PM ESPN+ UTSA vs Old Dominion (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/80bb11bc-77d0-43ce-b5b2-83fd1f9639c1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111021521" group-title="Eventos ESPN Plus",11-03-2021 12:30PM ESPN+ UTSA vs Old Dominion (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432633
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 12:00PM ESPN+ Sacramento State vs Northern Arizona (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9fd38ccd-10e9-441d-865b-6555268aef8d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302040" group-title="Eventos ESPN Plus",11-03-2021 12:00PM ESPN+ Sacramento State vs Northern Arizona (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432632
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 12:00PM ESPN+ Navy vs American University (M Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0d92e19e-34c7-4007-bc44-0e089a59fe71/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110302039" group-title="Eventos ESPN Plus",11-03-2021 12:00PM ESPN+ Navy vs American University (M Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432631
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 11:00AM ESPN+ App State vs Georgia State (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e39f0047-9248-4ff0-bee1-3055c4be5a27/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111022153" group-title="Eventos ESPN Plus",11-03-2021 11:00AM ESPN+ App State vs Georgia State (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432630
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 10:00AM ESPN+ Middle Tennessee vs Rice (Quarterfinal) (W Soccer)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e6b52482-aa07-4d98-8261-954d9868d015/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202111021511" group-title="Eventos ESPN Plus",11-03-2021 10:00AM ESPN+ Middle Tennessee vs Rice (Quarterfinal) (W Soccer)
+http://allinonestr.fans:8080/1534179972/90837722/432628
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 8:30AM ESPN+ In Hindi  -  India vs Afghanistan (T20)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/91e5d623-b2e3-4fb6-8e8f-741b598a9bb5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110312331" group-title="Eventos ESPN Plus",11-03-2021 8:30AM ESPN+ In Hindi  -  India vs Afghanistan (T20)
+http://allinonestr.fans:8080/1534179972/90837722/432627
+#EXTINF:-1 tvg-id="" tvg-name="11-03-2021 8:10AM ESPN+ India vs Afghanistan (T20)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2dda582b-13e8-455d-b89c-de3b286a2cd1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202110312331" group-title="Eventos ESPN Plus",11-03-2021 8:10AM ESPN+ India vs Afghanistan (T20)
+http://allinonestr.fans:8080/1534179972/90837722/432626
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Afizzionados" tvg-logo="" group-title="Mexico HD",IZMX | Afizzionados
+http://allinonestr.fans:8080/1534179972/90837722/432625
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | RAI" tvg-logo="" group-title="Mexico HD",IZMX | RAI
 http://allinonestr.fans:8080/1534179972/90837722/431510
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | Milenio" tvg-logo="" group-title="Mexico HD",IZMX | Milenio
@@ -99,11 +163,11 @@ http://allinonestr.fans:8080/1534179972/90837722/429586
 http://allinonestr.fans:8080/1534179972/90837722/429585
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | AMC" tvg-logo="" group-title="Mexico HD",IZMX | AMC
 http://allinonestr.fans:8080/1534179972/90837722/429584
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Charlotte Hornets" tvg-logo="" group-title="NBA",Cleveland Cavaliers @ Charlotte Hornets
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Cleveland Cavaliers" tvg-logo="" group-title="NBA",Portland Trail Blazers @ Cleveland Cavaliers
 http://allinonestr.fans:8080/1534179972/90837722/428953
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Indiana Pacers" tvg-logo="" group-title="NBA",San Antonio Spurs @ Indiana Pacers
+#EXTINF:-1 tvg-id="" tvg-name="New York Knicks @ Indiana Pacers" tvg-logo="" group-title="NBA",New York Knicks @ Indiana Pacers
 http://allinonestr.fans:8080/1534179972/90837722/428952
-#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Philadelphia 76ers" tvg-logo="" group-title="NBA",Portland Trail Blazers @ Philadelphia 76ers
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Orlando Magic" tvg-logo="" group-title="NBA",Boston Celtics @ Orlando Magic
 http://allinonestr.fans:8080/1534179972/90837722/428951
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-1" tvg-logo="" group-title="Beis Mexa",LAMP-1
 http://allinonestr.fans:8080/1534179972/90837722/428128
@@ -123,10 +187,8 @@ http://allinonestr.fans:8080/1534179972/90837722/427807
 http://allinonestr.fans:8080/1534179972/90837722/427472
 #EXTINF:-1 tvg-id="" tvg-name="USA | AT&T Sportsnet Rocky Mountain" tvg-logo="" group-title="Deportes/Sports",USA | AT&T Sportsnet Rocky Mountain
 http://allinonestr.fans:8080/1534179972/90837722/427471
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Atlanta Hawks" tvg-logo="" group-title="NBA",Washington Wizards @ Atlanta Hawks
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Philadelphia 76ers" tvg-logo="" group-title="NBA",Chicago Bulls @ Philadelphia 76ers
 http://allinonestr.fans:8080/1534179972/90837722/427253
-#EXTINF:-1 tvg-id="" tvg-name="USA | Braves vs. Astros" tvg-logo="" group-title="MLB",USA | Braves vs. Astros
-http://allinonestr.fans:8080/1534179972/90837722/424662
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-4" tvg-logo="" group-title="Beis Mexa",LAMP-4
 http://allinonestr.fans:8080/1534179972/90837722/424661
 #EXTINF:-1 tvg-id="" tvg-name="NBA 15 | HD " tvg-logo="" group-title="NBA League Pass",NBA 15 | HD 
@@ -161,23 +223,21 @@ http://allinonestr.fans:8080/1534179972/90837722/424575
 http://allinonestr.fans:8080/1534179972/90837722/424574
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-5" tvg-logo="" group-title="Beis Mexa",LAMP-5
 http://allinonestr.fans:8080/1534179972/90837722/424206
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Boston Celtics" tvg-logo="" group-title="NBA",Chicago Bulls @ Boston Celtics
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Washington Wizards" tvg-logo="" group-title="NBA",Toronto Raptors @ Washington Wizards
 http://allinonestr.fans:8080/1534179972/90837722/424205
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-Mayos" tvg-logo="" group-title="Beis Mexa",LAMP-Mayos
 http://allinonestr.fans:8080/1534179972/90837722/424144
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-Tomateros" tvg-logo="" group-title="Beis Mexa",LAMP-Tomateros
 http://allinonestr.fans:8080/1534179972/90837722/424143
-#EXTINF:-1 tvg-id="" tvg-name="MX | Braves vs. Astros" tvg-logo="http://45.89.107.236/mlb2/images/dodgers.png" group-title="MLB",MX | Braves vs. Astros
-http://allinonestr.fans:8080/1534179972/90837722/423828
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ New York Knicks" tvg-logo="" group-title="NBA",Toronto Raptors @ New York Knicks
-http://allinonestr.fans:8080/1534179972/90837722/423702
 #EXTINF:-1 tvg-id="" tvg-name="Denver Nuggets @ Memphis Grizzlies" tvg-logo="" group-title="NBA",Denver Nuggets @ Memphis Grizzlies
+http://allinonestr.fans:8080/1534179972/90837722/423702
+#EXTINF:-1 tvg-id="" tvg-name="LA Clippers @ Minnesota Timberwolves" tvg-logo="" group-title="NBA",LA Clippers @ Minnesota Timberwolves
 http://allinonestr.fans:8080/1534179972/90837722/423701
-#EXTINF:-1 tvg-id="" tvg-name="Orlando Magic @ Minnesota Timberwolves" tvg-logo="" group-title="NBA",Orlando Magic @ Minnesota Timberwolves
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ San Antonio Spurs" tvg-logo="" group-title="NBA",Dallas Mavericks @ San Antonio Spurs
 http://allinonestr.fans:8080/1534179972/90837722/423700
-#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ LA Clippers" tvg-logo="" group-title="NBA",Oklahoma City Thunder @ LA Clippers
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Golden State Warriors" tvg-logo="" group-title="NBA",Charlotte Hornets @ Golden State Warriors
 http://allinonestr.fans:8080/1534179972/90837722/423699
-#EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="" group-title="NBA",.
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Sacramento Kings" tvg-logo="" group-title="NBA",New Orleans Pelicans @ Sacramento Kings
 http://allinonestr.fans:8080/1534179972/90837722/423698
 #EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="" group-title="NBA",.
 http://allinonestr.fans:8080/1534179972/90837722/423116
@@ -243,19 +303,19 @@ http://allinonestr.fans:8080/1534179972/90837722/417695
 http://allinonestr.fans:8080/1534179972/90837722/417694
 #EXTINF:-1 tvg-id="" tvg-name="USA | PixL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest/scale-to-width-down/250?cb=20210408045829" group-title="Movies USA",USA | PixL
 http://allinonestr.fans:8080/1534179972/90837722/417693
-#EXTINF:-1 tvg-id="" tvg-name="10:45 Zenit vs Malmö FF" tvg-logo="" group-title="UEFA",10:45 Zenit vs Malmö FF
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs  Shakhtar Donetsk" tvg-logo="" group-title="UEFA",Real Madrid vs  Shakhtar Donetsk
 http://allinonestr.fans:8080/1534179972/90837722/417392
-#EXTINF:-1 tvg-id="" tvg-name="10:45 Atalanta vs Young Boys" tvg-logo="" group-title="UEFA",10:45 Atalanta vs Young Boys
+#EXTINF:-1 tvg-id="" tvg-name="AC Milan vs  FC Porto" tvg-logo="" group-title="UEFA",AC Milan vs  FC Porto
 http://allinonestr.fans:8080/1534179972/90837722/417391
-#EXTINF:-1 tvg-id="" tvg-name="Shakhtar Donetsk vs  Real Madrid" tvg-logo="" group-title="UEFA",Shakhtar Donetsk vs  Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="Manchester City vs  Club Brugge K.V." tvg-logo="" group-title="UEFA",Manchester City vs  Club Brugge K.V.
 http://allinonestr.fans:8080/1534179972/90837722/417390
-#EXTINF:-1 tvg-id="" tvg-name="FC Porto vs  AC Milan" tvg-logo="" group-title="UEFA",FC Porto vs  AC Milan
+#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs  Ajax" tvg-logo="" group-title="UEFA",Borussia Dortmund vs  Ajax
 http://allinonestr.fans:8080/1534179972/90837722/417389
-#EXTINF:-1 tvg-id="" tvg-name="Ajax vs  Borussia Dortmund" tvg-logo="" group-title="UEFA",Ajax vs  Borussia Dortmund
+#EXTINF:-1 tvg-id="" tvg-name="Sevilla vs  Lille SCP vs  Besiktas JK" tvg-logo="" group-title="UEFA",Sevilla vs  Lille SCP vs  Besiktas JK
 http://allinonestr.fans:8080/1534179972/90837722/417388
-#EXTINF:-1 tvg-id="" tvg-name="Internazionale Milan vs  Sheriff Tiraspol" tvg-logo="" group-title="UEFA",Internazionale Milan vs  Sheriff Tiraspol
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Tiraspol vs  Internazionale Milan" tvg-logo="" group-title="UEFA",Sheriff Tiraspol vs  Internazionale Milan
 http://allinonestr.fans:8080/1534179972/90837722/417387
-#EXTINF:-1 tvg-id="" tvg-name="Atletico Madrid vs  Liverpool" tvg-logo="" group-title="UEFA",Atletico Madrid vs  Liverpool
+#EXTINF:-1 tvg-id="" tvg-name="RB Leipzig vs  Paris Saint-Germain" tvg-logo="" group-title="UEFA",RB Leipzig vs  Paris Saint-Germain
 http://allinonestr.fans:8080/1534179972/90837722/417386
 #EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="http://144.217.80.14/IZZIPICS/uefa.jpeg" group-title="UEFA",.
 http://allinonestr.fans:8080/1534179972/90837722/416956
@@ -505,8 +565,6 @@ http://allinonestr.fans:8080/1534179972/90837722/397975
 http://allinonestr.fans:8080/1534179972/90837722/397973
 #EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TP | TVC Deportes" tvg-logo="http://144.217.80.14/photo/tvc.jpg" group-title="Mexico SD",TP | TVC Deportes
 http://allinonestr.fans:8080/1534179972/90837722/396360
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="TP | Golden Plus" tvg-logo="http://144.217.80.14/photo/golden.mx.jpg" group-title="Mexico SD",TP | Golden Plus
-http://allinonestr.fans:8080/1534179972/90837722/396356
 #EXTINF:-1 tvg-id="" tvg-name="Buccaneers" tvg-logo="http://144.217.80.14/nfl/bucs.jpeg" group-title="NFL Sunday Ticket",Buccaneers
 http://allinonestr.fans:8080/1534179972/90837722/395790
 #EXTINF:-1 tvg-id="" tvg-name="Seahawks" tvg-logo="http://144.217.80.14/nfl/seah.jpeg" group-title="NFL Sunday Ticket",Seahawks
@@ -645,7 +703,7 @@ http://allinonestr.fans:8080/1534179972/90837722/386173
 http://allinonestr.fans:8080/1534179972/90837722/386172
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | Discovery Science" tvg-logo="http://144.217.80.14/IZZIPICS/sci.jpeg" group-title="Mexico HD",IZMX | Discovery Science
 http://allinonestr.fans:8080/1534179972/90837722/386171
-#EXTINF:-1 tvg-id="" tvg-name="IZMX | CINECANAL" tvg-logo="http://144.217.80.14/IZZIPICS/cinecanal.jpeg" group-title="Mexico HD",IZMX | CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Cinecanal" tvg-logo="http://144.217.80.14/IZZIPICS/cinecanal.jpeg" group-title="Mexico HD",IZMX | Cinecanal
 http://allinonestr.fans:8080/1534179972/90837722/386170
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | De Pelicula" tvg-logo="http://144.217.80.14/IZZIPICS/depeli.jpeg" group-title="Mexico HD",IZMX | De Pelicula
 http://allinonestr.fans:8080/1534179972/90837722/386169
@@ -795,8 +853,6 @@ http://allinonestr.fans:8080/1534179972/90837722/379007
 http://allinonestr.fans:8080/1534179972/90837722/379003
 #EXTINF:-1 tvg-id="" tvg-name="Novelas En Familia" tvg-logo="https://static.diceplatform.com/prod/original/dce.univision/settings/PRIMARY_ICON_LANDSCAPE.mnouO.png?ts=1610556466" group-title="Telenovelas",Novelas En Familia
 http://allinonestr.fans:8080/1534179972/90837722/379002
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="USA | DUST" tvg-logo="" group-title="USA",USA | DUST
-http://allinonestr.fans:8080/1534179972/90837722/378986
 #EXTINF:-1 tvg-id="" tvg-name="PPV 14" tvg-logo="" group-title="Eventos",PPV 14
 http://allinonestr.fans:8080/1534179972/90837722/378965
 #EXTINF:-1 tvg-id="" tvg-name="PPV 13" tvg-logo="" group-title="Eventos",PPV 13
@@ -837,9 +893,9 @@ http://allinonestr.fans:8080/1534179972/90837722/378948
 http://allinonestr.fans:8080/1534179972/90837722/378947
 #EXTINF:-1 tvg-id="" tvg-name="USA | GUSTO TV" tvg-logo="" group-title="Latinos USA",USA | GUSTO TV
 http://allinonestr.fans:8080/1534179972/90837722/378920
-#EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="http://144.217.80.14/IZZIPICS/liga.jpeg" group-title="México - Liga MX",.
+#EXTINF:-1 tvg-id="" tvg-name="Pachuca vs Atlético San Luis" tvg-logo="http://144.217.80.14/IZZIPICS/liga.jpeg" group-title="México - Liga MX",Pachuca vs Atlético San Luis
 http://allinonestr.fans:8080/1534179972/90837722/378878
-#EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="http://144.217.80.14/IZZIPICS/liga.jpeg" group-title="México - Liga MX",.
+#EXTINF:-1 tvg-id="" tvg-name="Cruz Azul vs León" tvg-logo="http://144.217.80.14/IZZIPICS/liga.jpeg" group-title="México - Liga MX",Cruz Azul vs León
 http://allinonestr.fans:8080/1534179972/90837722/378877
 #EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TP | TVC" tvg-logo="http://144.217.80.14/photo/tvc.jpg" group-title="Mexico SD",TP | TVC
 http://allinonestr.fans:8080/1534179972/90837722/378822
@@ -1039,183 +1095,183 @@ http://allinonestr.fans:8080/1534179972/90837722/378324
 http://allinonestr.fans:8080/1534179972/90837722/378322
 #EXTINF:-1 tvg-id="" tvg-name="R-US | Univision NY" tvg-logo="" group-title="USA SD",R-US | Univision NY
 http://allinonestr.fans:8080/1534179972/90837722/378321
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="RMX | Azteca 1" tvg-logo="http://144.217.80.14/photo/az1.jpg" group-title="Rojo Mx",RMX | Azteca 1
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="RMX | Azteca 1" tvg-logo="http://144.217.80.14/photo/az1.jpg" group-title="",RMX | Azteca 1
 http://allinonestr.fans:8080/1534179972/90837722/378226
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Claro Sports" tvg-logo="http://144.217.80.14/photo/clarosp.jpg" group-title="Rojo Mx",RMX | Claro Sports
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Claro Sports" tvg-logo="http://144.217.80.14/photo/clarosp.jpg" group-title="",RMX | Claro Sports
 http://allinonestr.fans:8080/1534179972/90837722/378225
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="RMX | Cinecanal" tvg-logo="http://144.217.80.14/photo/cinecanal.jpg" group-title="Rojo Mx",RMX | Cinecanal
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="RMX | Cinecanal" tvg-logo="http://144.217.80.14/photo/cinecanal.jpg" group-title="",RMX | Cinecanal
 http://allinonestr.fans:8080/1534179972/90837722/378224
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Discovery ID" tvg-logo="http://144.217.80.14/photo/InvestigationDiscovery.jpg" group-title="Rojo Mx",RMX | Discovery ID
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Discovery ID" tvg-logo="http://144.217.80.14/photo/InvestigationDiscovery.jpg" group-title="",RMX | Discovery ID
 http://allinonestr.fans:8080/1534179972/90837722/378223
-#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="RMX | Disney XD" tvg-logo="http://144.217.80.14/photo/disneyXD.jpg" group-title="Rojo Mx",RMX | Disney XD
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="RMX | Disney XD" tvg-logo="http://144.217.80.14/photo/disneyXD.jpg" group-title="",RMX | Disney XD
 http://allinonestr.fans:8080/1534179972/90837722/378222
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="RMX | Las Estrellas CDMX" tvg-logo="http://144.217.80.14/photo/LAS%20ESTRELLAS%20.jpg" group-title="Rojo Mx",RMX | Las Estrellas CDMX
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="RMX | Las Estrellas CDMX" tvg-logo="http://144.217.80.14/photo/LAS%20ESTRELLAS%20.jpg" group-title="",RMX | Las Estrellas CDMX
 http://allinonestr.fans:8080/1534179972/90837722/378221
-#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="RMX | FXM" tvg-logo="http://144.217.80.14/photo/fxmoviechannel.us.jpg" group-title="Rojo Mx",RMX | FXM
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="RMX | FXM" tvg-logo="http://144.217.80.14/photo/fxmoviechannel.us.jpg" group-title="",RMX | FXM
 http://allinonestr.fans:8080/1534179972/90837722/378220
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="RMX | HBO +" tvg-logo="http://144.217.80.14/photo/hboplus.jpg" group-title="Rojo Mx",RMX | HBO +
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="RMX | HBO +" tvg-logo="http://144.217.80.14/photo/hboplus.jpg" group-title="",RMX | HBO +
 http://allinonestr.fans:8080/1534179972/90837722/378219
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="RMX | HBO 2" tvg-logo="http://144.217.80.14/photo/HBO2.jpg" group-title="Rojo Mx",RMX | HBO 2
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="RMX | HBO 2" tvg-logo="http://144.217.80.14/photo/HBO2.jpg" group-title="",RMX | HBO 2
 http://allinonestr.fans:8080/1534179972/90837722/378218
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="RMX | HBO Family" tvg-logo="http://144.217.80.14/photo/hbof.jpg" group-title="Rojo Mx",RMX | HBO Family
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="RMX | HBO Family" tvg-logo="http://144.217.80.14/photo/hbof.jpg" group-title="",RMX | HBO Family
 http://allinonestr.fans:8080/1534179972/90837722/378217
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="RMX | Imagen" tvg-logo="http://144.217.80.14/photo/imagen.jpg" group-title="Rojo Mx",RMX | Imagen
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="RMX | Imagen" tvg-logo="http://144.217.80.14/photo/imagen.jpg" group-title="",RMX | Imagen
 http://allinonestr.fans:8080/1534179972/90837722/378216
-#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="RMX | Lifetime" tvg-logo="http://144.217.80.14/photo/LIFE.jpg" group-title="Rojo Mx",RMX | Lifetime
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="RMX | Lifetime" tvg-logo="http://144.217.80.14/photo/LIFE.jpg" group-title="",RMX | Lifetime
 http://allinonestr.fans:8080/1534179972/90837722/378215
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Multicanal" tvg-logo="" group-title="Rojo Mx",RMX | Multicanal
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Multicanal" tvg-logo="" group-title="",RMX | Multicanal
 http://allinonestr.fans:8080/1534179972/90837722/378214
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Multi Premier" tvg-logo="http://144.217.80.14/photo/MULTIPREMIER.jpg" group-title="Rojo Mx",RMX | Multi Premier
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Multi Premier" tvg-logo="http://144.217.80.14/photo/MULTIPREMIER.jpg" group-title="",RMX | Multi Premier
 http://allinonestr.fans:8080/1534179972/90837722/378213
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="RMX | Natgeo" tvg-logo="http://144.217.80.14/photo/natgeo.jpg" group-title="Rojo Mx",RMX | Natgeo
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="RMX | Natgeo" tvg-logo="http://144.217.80.14/photo/natgeo.jpg" group-title="",RMX | Natgeo
 http://allinonestr.fans:8080/1534179972/90837722/378211
-#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="RMX | Nick JR" tvg-logo="http://144.217.80.14/photo/nickjr.jpg" group-title="Rojo Mx",RMX | Nick JR
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="RMX | Nick JR" tvg-logo="http://144.217.80.14/photo/nickjr.jpg" group-title="",RMX | Nick JR
 http://allinonestr.fans:8080/1534179972/90837722/378210
-#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="RMX | Paramount" tvg-logo="http://144.217.80.14/photo/pARAMOUNTNETWORK.jpg" group-title="Rojo Mx",RMX | Paramount
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="RMX | Paramount" tvg-logo="http://144.217.80.14/photo/pARAMOUNTNETWORK.jpg" group-title="",RMX | Paramount
 http://allinonestr.fans:8080/1534179972/90837722/378209
-#EXTINF:-1 tvg-id="space.mx" tvg-name="RMX | Space" tvg-logo="http://144.217.80.14/photo/space.jpg" group-title="Rojo Mx",RMX | Space
+#EXTINF:-1 tvg-id="space.mx" tvg-name="RMX | Space" tvg-logo="http://144.217.80.14/photo/space.jpg" group-title="",RMX | Space
 http://allinonestr.fans:8080/1534179972/90837722/378207
-#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="RMX | Warner" tvg-logo="http://144.217.80.14/photo/warner.jpg" group-title="Rojo Mx",RMX | Warner
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="RMX | Warner" tvg-logo="http://144.217.80.14/photo/warner.jpg" group-title="",RMX | Warner
 http://allinonestr.fans:8080/1534179972/90837722/378206
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="RMX | Azteca 7" tvg-logo="http://144.217.80.14/photo/az7.jpg" group-title="Rojo Mx",RMX | Azteca 7
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="RMX | Azteca 7" tvg-logo="http://144.217.80.14/photo/az7.jpg" group-title="",RMX | Azteca 7
 http://allinonestr.fans:8080/1534179972/90837722/378205
-#EXTINF:-1 tvg-id="canal22.mx" tvg-name="RMX | Canal 22" tvg-logo="http://144.217.80.14/photo/CANAL%2022%20MX.jpg" group-title="Rojo Mx",RMX | Canal 22
+#EXTINF:-1 tvg-id="canal22.mx" tvg-name="RMX | Canal 22" tvg-logo="http://144.217.80.14/photo/CANAL%2022%20MX.jpg" group-title="",RMX | Canal 22
 http://allinonestr.fans:8080/1534179972/90837722/378204
-#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="RMX | CNN en Español" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="Rojo Mx",RMX | CNN en Español
+#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="RMX | CNN en Español" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="",RMX | CNN en Español
 http://allinonestr.fans:8080/1534179972/90837722/378203
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="RMX | TNT Series" tvg-logo="http://144.217.80.14/photo/tntseries.mx.jpg" group-title="Rojo Mx",RMX | TNT Series
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="RMX | TNT Series" tvg-logo="http://144.217.80.14/photo/tntseries.mx.jpg" group-title="",RMX | TNT Series
 http://allinonestr.fans:8080/1534179972/90837722/378202
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Video Rola" tvg-logo="http://144.217.80.14/photo/VideoRola.jpg" group-title="Rojo Mx",RMX | Video Rola
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Video Rola" tvg-logo="http://144.217.80.14/photo/VideoRola.jpg" group-title="",RMX | Video Rola
 http://allinonestr.fans:8080/1534179972/90837722/378201
-#EXTINF:-1 tvg-id="vh1.mx" tvg-name="RMX | VH1" tvg-logo="http://144.217.80.14/photo/VH1.jpg" group-title="Rojo Mx",RMX | VH1
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="RMX | VH1" tvg-logo="http://144.217.80.14/photo/VH1.jpg" group-title="",RMX | VH1
 http://allinonestr.fans:8080/1534179972/90837722/378200
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="RMX | TVC" tvg-logo="http://144.217.80.14/photo/tvc.jpg" group-title="Rojo Mx",RMX | TVC
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="RMX | TVC" tvg-logo="http://144.217.80.14/photo/tvc.jpg" group-title="",RMX | TVC
 http://allinonestr.fans:8080/1534179972/90837722/378199
-#EXTINF:-1 tvg-id="" tvg-name="RMX | TV UNAM" tvg-logo="http://144.217.80.14/photo/TV%20%20UNAM.jpg" group-title="Rojo Mx",RMX | TV UNAM
+#EXTINF:-1 tvg-id="" tvg-name="RMX | TV UNAM" tvg-logo="http://144.217.80.14/photo/TV%20%20UNAM.jpg" group-title="",RMX | TV UNAM
 http://allinonestr.fans:8080/1534179972/90837722/378198
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="RMX | SyFy" tvg-logo="http://144.217.80.14/photo/SYFY.jpg" group-title="Rojo Mx",RMX | SyFy
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="RMX | SyFy" tvg-logo="http://144.217.80.14/photo/SYFY.jpg" group-title="",RMX | SyFy
 http://allinonestr.fans:8080/1534179972/90837722/378197
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="RMX | Studio Universal" tvg-logo="http://144.217.80.14/photo/STUDIO%20UNIVERSAL.jpg" group-title="Rojo Mx",RMX | Studio Universal
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="RMX | Studio Universal" tvg-logo="http://144.217.80.14/photo/STUDIO%20UNIVERSAL.jpg" group-title="",RMX | Studio Universal
 http://allinonestr.fans:8080/1534179972/90837722/378196
-#EXTINF:-1 tvg-id="" tvg-name="RMX | MTV Hits" tvg-logo="http://144.217.80.14/photo/mtvhits.jpg" group-title="Rojo Mx",RMX | MTV Hits
+#EXTINF:-1 tvg-id="" tvg-name="RMX | MTV Hits" tvg-logo="http://144.217.80.14/photo/mtvhits.jpg" group-title="",RMX | MTV Hits
 http://allinonestr.fans:8080/1534179972/90837722/378194
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Isat" tvg-logo="http://144.217.80.14/photo/isat.jpg" group-title="Rojo Mx",RMX | Isat
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Isat" tvg-logo="http://144.217.80.14/photo/isat.jpg" group-title="",RMX | Isat
 http://allinonestr.fans:8080/1534179972/90837722/378192
-#EXTINF:-1 tvg-id="" tvg-name="RMX |HTV" tvg-logo="http://144.217.80.14/photo/htv.jpg" group-title="Rojo Mx",RMX |HTV
+#EXTINF:-1 tvg-id="" tvg-name="RMX |HTV" tvg-logo="http://144.217.80.14/photo/htv.jpg" group-title="",RMX |HTV
 http://allinonestr.fans:8080/1534179972/90837722/378191
-#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="RMX | Teleformula" tvg-logo="http://144.217.80.14/photo/TELEFORM.jpg" group-title="Rojo Mx",RMX | Teleformula
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="RMX | Teleformula" tvg-logo="http://144.217.80.14/photo/TELEFORM.jpg" group-title="",RMX | Teleformula
 http://allinonestr.fans:8080/1534179972/90837722/378190
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="RMX | Comedy Central" tvg-logo="http://144.217.80.14/photo/comedycentral.mx.jpg" group-title="Rojo Mx",RMX | Comedy Central
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="RMX | Comedy Central" tvg-logo="http://144.217.80.14/photo/comedycentral.mx.jpg" group-title="",RMX | Comedy Central
 http://allinonestr.fans:8080/1534179972/90837722/378189
-#EXTINF:-1 tvg-id="" tvg-name="RMX | CNN Internacional" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="Rojo Mx",RMX | CNN Internacional
+#EXTINF:-1 tvg-id="" tvg-name="RMX | CNN Internacional" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="",RMX | CNN Internacional
 http://allinonestr.fans:8080/1534179972/90837722/378188
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 14 CDMX" tvg-logo="http://144.217.80.14/photo/canal14.jpg" group-title="Rojo Mx",RMX | Canal 14 CDMX
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 14 CDMX" tvg-logo="http://144.217.80.14/photo/canal14.jpg" group-title="",RMX | Canal 14 CDMX
 http://allinonestr.fans:8080/1534179972/90837722/378187
-#EXTINF:-1 tvg-id="babytv.mx" tvg-name="RMX | Baby TV" tvg-logo="http://144.217.80.14/photo/babytv.jpg" group-title="Rojo Mx",RMX | Baby TV
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="RMX | Baby TV" tvg-logo="http://144.217.80.14/photo/babytv.jpg" group-title="",RMX | Baby TV
 http://allinonestr.fans:8080/1534179972/90837722/378186
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Arts" tvg-logo="http://144.217.80.14/photo/artv.jpg" group-title="Rojo Mx",RMX | Arts
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Arts" tvg-logo="http://144.217.80.14/photo/artv.jpg" group-title="",RMX | Arts
 http://allinonestr.fans:8080/1534179972/90837722/378185
-#EXTINF:-1 tvg-id="" tvg-name="RMX | A3 Series" tvg-logo="http://144.217.80.14/photo/A3SER.jpg" group-title="Rojo Mx",RMX | A3 Series
+#EXTINF:-1 tvg-id="" tvg-name="RMX | A3 Series" tvg-logo="http://144.217.80.14/photo/A3SER.jpg" group-title="",RMX | A3 Series
 http://allinonestr.fans:8080/1534179972/90837722/378184
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Teleritmo" tvg-logo="http://144.217.80.14/photo/TELERITMO.jpg" group-title="Rojo Mx",RMX | Teleritmo
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Teleritmo" tvg-logo="http://144.217.80.14/photo/TELERITMO.jpg" group-title="",RMX | Teleritmo
 http://allinonestr.fans:8080/1534179972/90837722/378183
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="RMX | Discovery Channel" tvg-logo="http://144.217.80.14/photo/DiscoveryChannel.jpg" group-title="Rojo Mx",RMX | Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="RMX | Discovery Channel" tvg-logo="http://144.217.80.14/photo/DiscoveryChannel.jpg" group-title="",RMX | Discovery Channel
 http://allinonestr.fans:8080/1534179972/90837722/378182
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="RMX | TNT" tvg-logo="http://144.217.80.14/photo/tnt.us.jpg" group-title="Rojo Mx",RMX | TNT
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="RMX | TNT" tvg-logo="http://144.217.80.14/photo/tnt.us.jpg" group-title="",RMX | TNT
 http://allinonestr.fans:8080/1534179972/90837722/378181
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="RMX | Sony" tvg-logo="http://144.217.80.14/photo/sony.jpg" group-title="Rojo Mx",RMX | Sony
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="RMX | Sony" tvg-logo="http://144.217.80.14/photo/sony.jpg" group-title="",RMX | Sony
 http://allinonestr.fans:8080/1534179972/90837722/378180
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="RMX | Nick" tvg-logo="http://144.217.80.14/photo/nick.jpg" group-title="Rojo Mx",RMX | Nick
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="RMX | Nick" tvg-logo="http://144.217.80.14/photo/nick.jpg" group-title="",RMX | Nick
 http://allinonestr.fans:8080/1534179972/90837722/378179
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="RMX | MTV" tvg-logo="http://144.217.80.14/photo/mtv.us.jpg" group-title="Rojo Mx",RMX | MTV
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="RMX | MTV" tvg-logo="http://144.217.80.14/photo/mtv.us.jpg" group-title="",RMX | MTV
 http://allinonestr.fans:8080/1534179972/90837722/378178
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="RMX | History Channel" tvg-logo="http://144.217.80.14/photo/hist.jpg" group-title="Rojo Mx",RMX | History Channel
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="RMX | History Channel" tvg-logo="http://144.217.80.14/photo/hist.jpg" group-title="",RMX | History Channel
 http://allinonestr.fans:8080/1534179972/90837722/378177
-#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="RMX | Disney Channel" tvg-logo="http://144.217.80.14/photo/disneychannel.mx.jpg" group-title="Rojo Mx",RMX | Disney Channel
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="RMX | Disney Channel" tvg-logo="http://144.217.80.14/photo/disneychannel.mx.jpg" group-title="",RMX | Disney Channel
 http://allinonestr.fans:8080/1534179972/90837722/378176
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="RMX | Discovery Kids" tvg-logo="http://144.217.80.14/photo/diskid.jpg" group-title="Rojo Mx",RMX | Discovery Kids
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="RMX | Discovery Kids" tvg-logo="http://144.217.80.14/photo/diskid.jpg" group-title="",RMX | Discovery Kids
 http://allinonestr.fans:8080/1534179972/90837722/378175
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="RMX | Animal Planet" tvg-logo="http://144.217.80.14/photo/ANIMALPLANET.jpg" group-title="Rojo Mx",RMX | Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="RMX | Animal Planet" tvg-logo="http://144.217.80.14/photo/ANIMALPLANET.jpg" group-title="",RMX | Animal Planet
 http://allinonestr.fans:8080/1534179972/90837722/378174
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Channel" tvg-logo="http://144.217.80.14/photo/STAR%20CHANNEL.jpg" group-title="Rojo Mx",RMX | Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Channel" tvg-logo="http://144.217.80.14/photo/STAR%20CHANNEL.jpg" group-title="",RMX | Star Channel
 http://allinonestr.fans:8080/1534179972/90837722/378173
-#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="RMX | Cine Latino" tvg-logo="http://144.217.80.14/photo/cinelat.jpg" group-title="Rojo Mx",RMX | Cine Latino
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="RMX | Cine Latino" tvg-logo="http://144.217.80.14/photo/cinelat.jpg" group-title="",RMX | Cine Latino
 http://allinonestr.fans:8080/1534179972/90837722/378172
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="RMX | HBO Xtreme" tvg-logo="http://144.217.80.14/photo/hbom.jpg" group-title="Rojo Mx",RMX | HBO Xtreme
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="RMX | HBO Xtreme" tvg-logo="http://144.217.80.14/photo/hbom.jpg" group-title="",RMX | HBO Xtreme
 http://allinonestr.fans:8080/1534179972/90837722/378168
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="RMX | FOX Sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="Rojo Mx",RMX | FOX Sports 2
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="RMX | FOX Sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="",RMX | FOX Sports 2
 http://allinonestr.fans:8080/1534179972/90837722/378167
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="RMX | FOX Sports 1" tvg-logo="http://144.217.80.14/photo/fs1.jpg" group-title="Rojo Mx",RMX | FOX Sports 1
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="RMX | FOX Sports 1" tvg-logo="http://144.217.80.14/photo/fs1.jpg" group-title="",RMX | FOX Sports 1
 http://allinonestr.fans:8080/1534179972/90837722/378166
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Hits" tvg-logo="http://144.217.80.14/photo/star%20hits.jpg" group-title="Rojo Mx",RMX | Star Hits
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Hits" tvg-logo="http://144.217.80.14/photo/star%20hits.jpg" group-title="",RMX | Star Hits
 http://allinonestr.fans:8080/1534179972/90837722/378165
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Life" tvg-logo="http://144.217.80.14/photo/STARLIFE.jpg" group-title="Rojo Mx",RMX | Star Life
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Life" tvg-logo="http://144.217.80.14/photo/STARLIFE.jpg" group-title="",RMX | Star Life
 http://allinonestr.fans:8080/1534179972/90837722/378164
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Cinema" tvg-logo="http://144.217.80.14/photo/star%20cinema.jpg" group-title="Rojo Mx",RMX | Star Cinema
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Cinema" tvg-logo="http://144.217.80.14/photo/star%20cinema.jpg" group-title="",RMX | Star Cinema
 http://allinonestr.fans:8080/1534179972/90837722/378163
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Action" tvg-logo="http://144.217.80.14/photo/star%20action.jpg" group-title="Rojo Mx",RMX | Star Action
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Action" tvg-logo="http://144.217.80.14/photo/star%20action.jpg" group-title="",RMX | Star Action
 http://allinonestr.fans:8080/1534179972/90837722/378162
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="RMX | ESPN 2" tvg-logo="http://144.217.80.14/photo/espn2.jpg" group-title="Rojo Mx",RMX | ESPN 2
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="RMX | ESPN 2" tvg-logo="http://144.217.80.14/photo/espn2.jpg" group-title="",RMX | ESPN 2
 http://allinonestr.fans:8080/1534179972/90837722/378161
-#EXTINF:-1 tvg-id="" tvg-name="RMX | ESPN 1" tvg-logo="http://144.217.80.14/photo/espn.jpg" group-title="Rojo Mx",RMX | ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="RMX | ESPN 1" tvg-logo="http://144.217.80.14/photo/espn.jpg" group-title="",RMX | ESPN 1
 http://allinonestr.fans:8080/1534179972/90837722/378160
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="RMX | Cinemax" tvg-logo="http://144.217.80.14/photo/cinemax.jpg" group-title="Rojo Mx",RMX | Cinemax
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="RMX | Cinemax" tvg-logo="http://144.217.80.14/photo/cinemax.jpg" group-title="",RMX | Cinemax
 http://allinonestr.fans:8080/1534179972/90837722/378159
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="RMX | FX" tvg-logo="http://144.217.80.14/photo/fx.jpg" group-title="Rojo Mx",RMX | FX
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="RMX | FX" tvg-logo="http://144.217.80.14/photo/fx.jpg" group-title="",RMX | FX
 http://allinonestr.fans:8080/1534179972/90837722/378158
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="RMX | AXN" tvg-logo="http://144.217.80.14/photo/AXN.jpg" group-title="Rojo Mx",RMX | AXN
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="RMX | AXN" tvg-logo="http://144.217.80.14/photo/AXN.jpg" group-title="",RMX | AXN
 http://allinonestr.fans:8080/1534179972/90837722/378157
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="RMX | Universal" tvg-logo="http://144.217.80.14/photo/Universal_Channel_2013.jpg" group-title="Rojo Mx",RMX | Universal
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="RMX | Universal" tvg-logo="http://144.217.80.14/photo/Universal_Channel_2013.jpg" group-title="",RMX | Universal
 http://allinonestr.fans:8080/1534179972/90837722/378156
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="RMX | Canal Once" tvg-logo="http://144.217.80.14/photo/CANALONCE.jpg" group-title="Rojo Mx",RMX | Canal Once
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="RMX | Canal Once" tvg-logo="http://144.217.80.14/photo/CANALONCE.jpg" group-title="",RMX | Canal Once
 http://allinonestr.fans:8080/1534179972/90837722/378155
-#EXTINF:-1 tvg-id="" tvg-name="RMX | EXA Tv" tvg-logo="" group-title="Rojo Mx",RMX | EXA Tv
+#EXTINF:-1 tvg-id="" tvg-name="RMX | EXA Tv" tvg-logo="" group-title="",RMX | EXA Tv
 http://allinonestr.fans:8080/1534179972/90837722/378154
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 6 CDMX" tvg-logo="http://144.217.80.14/photo/CANAL%206%20MONTERREY.jpg" group-title="Rojo Mx",RMX | Canal 6 CDMX
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 6 CDMX" tvg-logo="http://144.217.80.14/photo/CANAL%206%20MONTERREY.jpg" group-title="",RMX | Canal 6 CDMX
 http://allinonestr.fans:8080/1534179972/90837722/378153
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 5 CDMX" tvg-logo="http://144.217.80.14/photo/Canal5.jpg" group-title="Rojo Mx",RMX | Canal 5 CDMX
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Canal 5 CDMX" tvg-logo="http://144.217.80.14/photo/Canal5.jpg" group-title="",RMX | Canal 5 CDMX
 http://allinonestr.fans:8080/1534179972/90837722/378152
-#EXTINF:-1 tvg-id="tlc.mx" tvg-name="RMX | TLC" tvg-logo="http://144.217.80.14/photo/TLC.jpg" group-title="Rojo Mx",RMX | TLC
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="RMX | TLC" tvg-logo="http://144.217.80.14/photo/TLC.jpg" group-title="",RMX | TLC
 http://allinonestr.fans:8080/1534179972/90837722/378151
-#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="RMX | Natgeo Wild" tvg-logo="http://144.217.80.14/photo/Natgeowild.jpg" group-title="Rojo Mx",RMX | Natgeo Wild
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="RMX | Natgeo Wild" tvg-logo="http://144.217.80.14/photo/Natgeowild.jpg" group-title="",RMX | Natgeo Wild
 http://allinonestr.fans:8080/1534179972/90837722/378150
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="RMX | HBO" tvg-logo="http://144.217.80.14/photo/hbo.jpg" group-title="Rojo Mx",RMX | HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="RMX | HBO" tvg-logo="http://144.217.80.14/photo/hbo.jpg" group-title="",RMX | HBO
 http://allinonestr.fans:8080/1534179972/90837722/378149
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="RMX | Discovery H&H" tvg-logo="http://144.217.80.14/photo/dischh.jpg" group-title="Rojo Mx",RMX | Discovery H&H
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="RMX | Discovery H&H" tvg-logo="http://144.217.80.14/photo/dischh.jpg" group-title="",RMX | Discovery H&H
 http://allinonestr.fans:8080/1534179972/90837722/378148
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Series" tvg-logo="http://144.217.80.14/photo/star%20series..jpg" group-title="Rojo Mx",RMX | Star Series
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Series" tvg-logo="http://144.217.80.14/photo/star%20series..jpg" group-title="",RMX | Star Series
 http://allinonestr.fans:8080/1534179972/90837722/378147
-#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="RMX | E!" tvg-logo="http://144.217.80.14/photo/E!.jpg" group-title="Rojo Mx",RMX | E!
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="RMX | E!" tvg-logo="http://144.217.80.14/photo/E!.jpg" group-title="",RMX | E!
 http://allinonestr.fans:8080/1534179972/90837722/378146
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="RMX | ESPN 3" tvg-logo="http://144.217.80.14/photo/espn3.jpg" group-title="Rojo Mx",RMX | ESPN 3
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="RMX | ESPN 3" tvg-logo="http://144.217.80.14/photo/espn3.jpg" group-title="",RMX | ESPN 3
 http://allinonestr.fans:8080/1534179972/90837722/378145
-#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="RMX | Disney JR" tvg-logo="http://144.217.80.14/photo/disneyjunior.mx.jpg" group-title="Rojo Mx",RMX | Disney JR
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="RMX | Disney JR" tvg-logo="http://144.217.80.14/photo/disneyjunior.mx.jpg" group-title="",RMX | Disney JR
 http://allinonestr.fans:8080/1534179972/90837722/378144
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="RMX | Discovery Turbo" tvg-logo="http://144.217.80.14/photo/DISCOVERYTURBO.jpg" group-title="Rojo Mx",RMX | Discovery Turbo
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="RMX | Discovery Turbo" tvg-logo="http://144.217.80.14/photo/DISCOVERYTURBO.jpg" group-title="",RMX | Discovery Turbo
 http://allinonestr.fans:8080/1534179972/90837722/378143
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="RMX | Cartoon Network" tvg-logo="http://144.217.80.14/photo/cartoonnetwork.mx.jpg" group-title="Rojo Mx",RMX | Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="RMX | Cartoon Network" tvg-logo="http://144.217.80.14/photo/cartoonnetwork.mx.jpg" group-title="",RMX | Cartoon Network
 http://allinonestr.fans:8080/1534179972/90837722/378142
-#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="RMX | Boomerang" tvg-logo="http://144.217.80.14/photo/BOOM.jpg" group-title="Rojo Mx",RMX | Boomerang
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="RMX | Boomerang" tvg-logo="http://144.217.80.14/photo/BOOM.jpg" group-title="",RMX | Boomerang
 http://allinonestr.fans:8080/1534179972/90837722/378141
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="RMX | A&E" tvg-logo="http://144.217.80.14/photo/ae.jpg" group-title="Rojo Mx",RMX | A&E
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="RMX | A&E" tvg-logo="http://144.217.80.14/photo/ae.jpg" group-title="",RMX | A&E
 http://allinonestr.fans:8080/1534179972/90837722/378140
-#EXTINF:-1 tvg-id="tbs.mx" tvg-name="RMX | TBS" tvg-logo="http://144.217.80.14/photo/tbs.jpg" group-title="Rojo Mx",RMX | TBS
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="RMX | TBS" tvg-logo="http://144.217.80.14/photo/tbs.jpg" group-title="",RMX | TBS
 http://allinonestr.fans:8080/1534179972/90837722/378139
-#EXTINF:-1 tvg-id="" tvg-name="RMX | La Mejor" tvg-logo="" group-title="Rojo Mx",RMX | La Mejor
+#EXTINF:-1 tvg-id="" tvg-name="RMX | La Mejor" tvg-logo="" group-title="",RMX | La Mejor
 http://allinonestr.fans:8080/1534179972/90837722/378138
-#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="RMX | Natgeo Kids" tvg-logo="http://144.217.80.14/photo/natgeo.jpg" group-title="Rojo Mx",RMX | Natgeo Kids
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="RMX | Natgeo Kids" tvg-logo="http://144.217.80.14/photo/natgeo.jpg" group-title="",RMX | Natgeo Kids
 http://allinonestr.fans:8080/1534179972/90837722/378137
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="RMX | Milenio" tvg-logo="http://144.217.80.14/photo/mileniotelevision.mx.jpg" group-title="Rojo Mx",RMX | Milenio
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="RMX | Milenio" tvg-logo="http://144.217.80.14/photo/mileniotelevision.mx.jpg" group-title="",RMX | Milenio
 http://allinonestr.fans:8080/1534179972/90837722/378136
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Hola TV" tvg-logo="http://144.217.80.14/photo/hola.jpg" group-title="Rojo Mx",RMX | Hola TV
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Hola TV" tvg-logo="http://144.217.80.14/photo/hola.jpg" group-title="",RMX | Hola TV
 http://allinonestr.fans:8080/1534179972/90837722/378135
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="RMX | H2" tvg-logo="http://144.217.80.14/photo/H2.jpg" group-title="Rojo Mx",RMX | H2
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="RMX | H2" tvg-logo="http://144.217.80.14/photo/H2.jpg" group-title="",RMX | H2
 http://allinonestr.fans:8080/1534179972/90837722/378134
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="RMX | FOX Sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="Rojo Mx",RMX | FOX Sports 3
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="RMX | FOX Sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="",RMX | FOX Sports 3
 http://allinonestr.fans:8080/1534179972/90837722/378133
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Fun" tvg-logo="http://144.217.80.14/photo/star%20fun.jpg" group-title="Rojo Mx",RMX | Star Fun
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Fun" tvg-logo="http://144.217.80.14/photo/star%20fun.jpg" group-title="",RMX | Star Fun
 http://allinonestr.fans:8080/1534179972/90837722/378132
-#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Classics" tvg-logo="http://144.217.80.14/photo/star%20classics..jpg" group-title="Rojo Mx",RMX | Star Classics
+#EXTINF:-1 tvg-id="" tvg-name="RMX | Star Classics" tvg-logo="http://144.217.80.14/photo/star%20classics..jpg" group-title="",RMX | Star Classics
 http://allinonestr.fans:8080/1534179972/90837722/378131
 #EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="http://144.217.80.14/IZZIPICS/liga.jpeg" group-title="México - Liga MX",.
 http://allinonestr.fans:8080/1534179972/90837722/377848
@@ -1229,8 +1285,6 @@ http://allinonestr.fans:8080/1534179972/90837722/377393
 http://allinonestr.fans:8080/1534179972/90837722/377392
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="http://144.217.80.14/blim/telem.jpeg" group-title="BlimTv",Telemundo
 http://allinonestr.fans:8080/1534179972/90837722/377391
-#EXTINF:-1 tvg-id="" tvg-name="tlnovelas" tvg-logo="http://144.217.80.14/blim/tln.jpeg" group-title="BlimTv",tlnovelas
-http://allinonestr.fans:8080/1534179972/90837722/377390
 #EXTINF:-1 tvg-id="" tvg-name="De pelicula plus" tvg-logo="http://144.217.80.14/blim/depelplus.jpeg" group-title="BlimTv",De pelicula plus
 http://allinonestr.fans:8080/1534179972/90837722/377389
 #EXTINF:-1 tvg-id="" tvg-name="Clan" tvg-logo="http://144.217.80.14/blim/clan.jpeg" group-title="BlimTv",Clan
@@ -1247,8 +1301,6 @@ http://allinonestr.fans:8080/1534179972/90837722/377384
 http://allinonestr.fans:8080/1534179972/90837722/377382
 #EXTINF:-1 tvg-id="" tvg-name="golden plus" tvg-logo="http://144.217.80.14/blim/goldenplus.jpeg" group-title="BlimTv",golden plus
 http://allinonestr.fans:8080/1534179972/90837722/377381
-#EXTINF:-1 tvg-id="" tvg-name="golden edge" tvg-logo="http://144.217.80.14/blim/edge.jpeg" group-title="BlimTv",golden edge
-http://allinonestr.fans:8080/1534179972/90837722/377380
 #EXTINF:-1 tvg-id="" tvg-name="galatv" tvg-logo="http://144.217.80.14/blim/gala.jpeg" group-title="BlimTv",galatv
 http://allinonestr.fans:8080/1534179972/90837722/377378
 #EXTINF:-1 tvg-id="" tvg-name="forotv" tvg-logo="http://144.217.80.14/blim/foro.jpeg" group-title="BlimTv",forotv
@@ -1421,8 +1473,6 @@ http://allinonestr.fans:8080/1534179972/90837722/376678
 http://allinonestr.fans:8080/1534179972/90837722/376676
 #EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="Music",Concert Channel
 http://allinonestr.fans:8080/1534179972/90837722/374892
-#EXTINF:-1 tvg-id="" tvg-name="Anime Zone TV" tvg-logo="" group-title="Zona Gamer",Anime Zone TV
-http://allinonestr.fans:8080/1534179972/90837722/374194
 #EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="FHD | Disney Junior" tvg-logo="" group-title="Mexico FHD",FHD | Disney Junior
 http://allinonestr.fans:8080/1534179972/90837722/373557
 #EXTINF:-1 tvg-id="" tvg-name="USA | TNT SD" tvg-logo="" group-title="USA",USA | TNT SD
@@ -1441,8 +1491,6 @@ http://allinonestr.fans:8080/1534179972/90837722/356120
 http://allinonestr.fans:8080/1534179972/90837722/356114
 #EXTINF:-1 tvg-id="" tvg-name="EC | Fox Sports 3" tvg-logo="" group-title="Deportes/Sports",EC | Fox Sports 3
 http://allinonestr.fans:8080/1534179972/90837722/356112
-#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="FHD | Disney XD" tvg-logo="http://144.217.80.14/photo/disneyXD.jpg" group-title="Mexico FHD",FHD | Disney XD
-http://allinonestr.fans:8080/1534179972/90837722/354872
 #EXTINF:-1 tvg-id="" tvg-name="ESNE" tvg-logo="" group-title="Religiosos",ESNE
 http://allinonestr.fans:8080/1534179972/90837722/352975
 #EXTINF:-1 tvg-id="" tvg-name="Almavision" tvg-logo="" group-title="Religiosos",Almavision
@@ -1503,8 +1551,6 @@ http://allinonestr.fans:8080/1534179972/90837722/350658
 http://allinonestr.fans:8080/1534179972/90837722/350657
 #EXTINF:-1 tvg-id="" tvg-name="EC | Directv Sports +" tvg-logo="" group-title="Deportes/Sports",EC | Directv Sports +
 http://allinonestr.fans:8080/1534179972/90837722/350655
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-logo="http://144.217.80.14/photo/tigos.jpg" group-title="Deportes/Sports",Tigo Sports
-http://allinonestr.fans:8080/1534179972/90837722/347682
 #EXTINF:-1 tvg-id="" tvg-name="MLB | 07" tvg-logo="http://144.217.80.14/photo/MLB.jpg" group-title="MLB Extra Innings",MLB | 07
 http://allinonestr.fans:8080/1534179972/90837722/346776
 #EXTINF:-1 tvg-id="" tvg-name="MLB | 06" tvg-logo="http://144.217.80.14/photo/MLB.jpg" group-title="MLB Extra Innings",MLB | 06
@@ -1585,8 +1631,6 @@ http://allinonestr.fans:8080/1534179972/90837722/335724
 http://allinonestr.fans:8080/1534179972/90837722/335723
 #EXTINF:-1 tvg-id="" tvg-name="CH | TNT Sports 1" tvg-logo="http://144.217.80.14/photo/tnt.us.jpg" group-title="Deportes/Sports",CH | TNT Sports 1
 http://allinonestr.fans:8080/1534179972/90837722/335721
-#EXTINF:-1 tvg-id="" tvg-name="CH | Fox Sports" tvg-logo="http://144.217.80.14/photo/FOXSPORTS.jpg" group-title="Deportes/Sports",CH | Fox Sports
-http://allinonestr.fans:8080/1534179972/90837722/335720
 #EXTINF:-1 tvg-id="" tvg-name="CH | Fox Sports Chile" tvg-logo="http://144.217.80.14/photo/FOXSPORTS.jpg" group-title="Deportes/Sports",CH | Fox Sports Chile
 http://allinonestr.fans:8080/1534179972/90837722/335719
 #EXTINF:-1 tvg-id="" tvg-name="CH | Fox Sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="Deportes/Sports",CH | Fox Sports 3
@@ -1629,8 +1673,6 @@ http://allinonestr.fans:8080/1534179972/90837722/330821
 http://allinonestr.fans:8080/1534179972/90837722/330820
 #EXTINF:-1 tvg-id="unicable.mx" tvg-name="HQ | Unicable" tvg-logo="http://144.217.80.14/photo/unica.jpg" group-title="Mexico HQ",HQ | Unicable
 http://allinonestr.fans:8080/1534179972/90837722/330819
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="HQ | TUDN" tvg-logo="http://144.217.80.14/photo/TUDNMX.jpg" group-title="Deportes/Sports",HQ | TUDN
-http://allinonestr.fans:8080/1534179972/90837722/330817
 #EXTINF:-1 tvg-id="tntseries.mx" tvg-name="HQ | TNT Series" tvg-logo="http://144.217.80.14/photo/tntseries.mx.jpg" group-title="Mexico HQ",HQ | TNT Series
 http://allinonestr.fans:8080/1534179972/90837722/330814
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="HQ | TNT" tvg-logo="http://144.217.80.14/photo/tnt.us.jpg" group-title="Mexico HQ",HQ | TNT
@@ -1751,8 +1793,6 @@ http://allinonestr.fans:8080/1534179972/90837722/330617
 http://allinonestr.fans:8080/1534179972/90837722/330616
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="HQ | Fox Sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="Deportes/Sports",HQ | Fox Sports 2
 http://allinonestr.fans:8080/1534179972/90837722/330614
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="HQ | Fox Sports" tvg-logo="http://144.217.80.14/photo/FOXSPORTS.jpg" group-title="Deportes/Sports",HQ | Fox Sports
-http://allinonestr.fans:8080/1534179972/90837722/330613
 #EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="HQ | Food Network" tvg-logo="http://144.217.80.14/photo/foodnetwork.us.jpg" group-title="Mexico HQ",HQ | Food Network
 http://allinonestr.fans:8080/1534179972/90837722/330610
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="HQ | ESPN 3" tvg-logo="http://144.217.80.14/photo/espn3.jpg" group-title="Deportes/Sports",HQ | ESPN 3
@@ -1785,8 +1825,6 @@ http://allinonestr.fans:8080/1534179972/90837722/330576
 http://allinonestr.fans:8080/1534179972/90837722/330575
 #EXTINF:-1 tvg-id="boomerang.mx" tvg-name="HQ | Boomerang" tvg-logo="http://144.217.80.14/photo/BOOM.jpg" group-title="Mexico HQ",HQ | Boomerang
 http://allinonestr.fans:8080/1534179972/90837722/330572
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="HQ | Bitme" tvg-logo="http://144.217.80.14/photo/BITE%20ME%20.jpg" group-title="Kids MX",HQ | Bitme
-http://allinonestr.fans:8080/1534179972/90837722/330571
 #EXTINF:-1 tvg-id="" tvg-name="HQ | Azteca uno menos 2hr" tvg-logo="http://144.217.80.14/photo/AZTECAUNO.jpg" group-title="Mexico HQ",HQ | Azteca uno menos 2hr
 http://allinonestr.fans:8080/1534179972/90837722/330568
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-name="HQ | Azteca 7 nacional" tvg-logo="http://144.217.80.14/photo/az7.jpg" group-title="Mexico HQ",HQ | Azteca 7 nacional
@@ -2133,8 +2171,6 @@ http://allinonestr.fans:8080/1534179972/90837722/328578
 http://allinonestr.fans:8080/1534179972/90837722/328563
 #EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="" group-title="24/7",Digimon
 http://allinonestr.fans:8080/1534179972/90837722/327486
-#EXTINF:-1 tvg-id="" tvg-name="HDMX | CNN" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="Noticias/News",HDMX | CNN
-http://allinonestr.fans:8080/1534179972/90837722/327436
 #EXTINF:-1 tvg-id="" tvg-name="IZMX | TELEHIT URBANO" tvg-logo="http://144.217.80.14/photo/TELEHIT.jpg" group-title="Music",IZMX | TELEHIT URBANO
 http://allinonestr.fans:8080/1534179972/90837722/327434
 #EXTINF:-1 tvg-id="" tvg-name="MX | NICKTOONS" tvg-logo="http://144.217.80.14/photo/nicktoo.jpg" group-title="Kids MX",MX | NICKTOONS
@@ -2325,8 +2361,6 @@ http://allinonestr.fans:8080/1534179972/90837722/270016
 http://allinonestr.fans:8080/1534179972/90837722/270015
 #EXTINF:-1 tvg-id="" tvg-name="MX | Once Niños" tvg-logo="http://144.217.80.14/photo/onceninos.jpg" group-title="Locales MX",MX | Once Niños
 http://allinonestr.fans:8080/1534179972/90837722/270014
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 22" tvg-logo="http://144.217.80.14/photo/CANAL%2022%20MX.jpg" group-title="Locales MX",MX | Canal 22
-http://allinonestr.fans:8080/1534179972/90837722/270007
 #EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="USA | CBS Atlanta" tvg-logo="http://144.217.80.14/photo/CBSLOC.jpg" group-title="USA Locals",USA | CBS Atlanta
 http://allinonestr.fans:8080/1534179972/90837722/270006
 #EXTINF:-1 tvg-id="cbs2kutv.us" tvg-name="USA | CBS Salt Lake City" tvg-logo="http://144.217.80.14/photo/CBSLOC.jpg" group-title="USA Locals",USA | CBS Salt Lake City
@@ -2369,7 +2403,7 @@ http://allinonestr.fans:8080/1534179972/90837722/269869
 http://allinonestr.fans:8080/1534179972/90837722/269868
 #EXTINF:-1 tvg-id="" tvg-name="MLB Networks" tvg-logo="http://144.217.80.14/photo/mlb.jpg" group-title="MLB",MLB Networks
 http://allinonestr.fans:8080/1534179972/90837722/269398
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="FHD | ESPN 3" tvg-logo="" group-title="Mexico FHD",FHD | ESPN 3
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="IZMX | ESPN 3" tvg-logo="" group-title="Mexico FHD",IZMX | ESPN 3
 http://allinonestr.fans:8080/1534179972/90837722/269064
 #EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="FHD | A&E" tvg-logo="http://144.217.80.14/photo/ae.jpg" group-title="Mexico FHD",FHD | A&E
 http://allinonestr.fans:8080/1534179972/90837722/268536
@@ -2447,8 +2481,6 @@ http://allinonestr.fans:8080/1534179972/90837722/267043
 http://allinonestr.fans:8080/1534179972/90837722/267042
 #EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="HD | Disney Jr" tvg-logo="http://144.217.80.14/photo/disneyjunior.mx.jpg" group-title="Kids MX",HD | Disney Jr
 http://allinonestr.fans:8080/1534179972/90837722/267041
-#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="HD | Disney" tvg-logo="http://144.217.80.14/photo/disneychannel.mx.jpg" group-title="Kids MX",HD | Disney
-http://allinonestr.fans:8080/1534179972/90837722/267039
 #EXTINF:-1 tvg-id="amc.mx" tvg-name="HD | AMC" tvg-logo="http://144.217.80.14/photo/amc.us.jpg" group-title="Entretenimiento",HD | AMC
 http://allinonestr.fans:8080/1534179972/90837722/267035
 #EXTINF:-1 tvg-id="" tvg-name="PE | Canal Sur" tvg-logo="http://144.217.80.14/photo/SURPERU.jpg" group-title="Peru",PE | Canal Sur
@@ -2485,16 +2517,10 @@ http://allinonestr.fans:8080/1534179972/90837722/264827
 http://allinonestr.fans:8080/1534179972/90837722/263382
 #EXTINF:-1 tvg-id="movieplex.us" tvg-name="USA | MoviePlex" tvg-logo="http://144.217.80.14/photo/Movieplex.jpg" group-title="Movies USA",USA | MoviePlex
 http://allinonestr.fans:8080/1534179972/90837722/263381
-#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="USA | Longhorn Network" tvg-logo="http://144.217.80.14/photo/LONGHORN.jpg" group-title="Deportes/Sports",USA | Longhorn Network
-http://allinonestr.fans:8080/1534179972/90837722/263380
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore" tvg-logo="http://144.217.80.14/photo/LoneStarClassics.jpg" group-title="Movies USA",USA | Starz Encore
 http://allinonestr.fans:8080/1534179972/90837722/263354
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nautical Channel" tvg-logo="http://144.217.80.14/photo/NAUTICAL.jpg" group-title="Deportes/Sports",USA | Nautical Channel
-http://allinonestr.fans:8080/1534179972/90837722/263185
 #EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="USA | Hdnet Movies" tvg-logo="http://144.217.80.14/photo/HDNet_Movies.jpg" group-title="Movies USA",USA | Hdnet Movies
 http://allinonestr.fans:8080/1534179972/90837722/263184
-#EXTINF:-1 tvg-id="ridetv.us" tvg-name="USA | Ride TV" tvg-logo="http://144.217.80.14/photo/RIDESPTS.jpg" group-title="Deportes/Sports",USA | Ride TV
-http://allinonestr.fans:8080/1534179972/90837722/262707
 #EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Liga de Campeones 1 FHD" tvg-logo="http://144.217.80.14/photo/MOVISTARLIGA.jpg" group-title="Deportes/Sports",ES | Movistar Liga de Campeones 1 FHD
 http://allinonestr.fans:8080/1534179972/90837722/262412
 #EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga HD" tvg-logo="http://144.217.80.14/photo/MOVISTARLALIGA.jpg" group-title="Deportes/Sports",ES | Movistar LaLiga HD
@@ -2627,20 +2653,8 @@ http://allinonestr.fans:8080/1534179972/90837722/255100
 http://allinonestr.fans:8080/1534179972/90837722/255097
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA | Heroes & Icons" tvg-logo="http://144.217.80.14/photo/Heroes.jpg" group-title="USA",USA | Heroes & Icons
 http://allinonestr.fans:8080/1534179972/90837722/255094
-#EXTINF:-1 tvg-id="" tvg-name="Youth-Hits" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Youth-Hits
-http://allinonestr.fans:8080/1534179972/90837722/243072
-#EXTINF:-1 tvg-id="" tvg-name="KIDZ-BOP" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",KIDZ-BOP
-http://allinonestr.fans:8080/1534179972/90837722/243070
 #EXTINF:-1 tvg-id="" tvg-name="90s" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",90s
 http://allinonestr.fans:8080/1534179972/90837722/243066
-#EXTINF:-1 tvg-id="" tvg-name="Music-Choice-Play" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Music-Choice-Play
-http://allinonestr.fans:8080/1534179972/90837722/243065
-#EXTINF:-1 tvg-id="" tvg-name="80s" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",80s
-http://allinonestr.fans:8080/1534179972/90837722/243061
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC" tvg-logo="http://144.217.80.14/photo/CNBC.jpg" group-title="Noticias/News",USA | CNBC
-http://allinonestr.fans:8080/1534179972/90837722/243050
-#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA | Cheddar" tvg-logo="http://144.217.80.14/photo/CHEDDAR.jpg" group-title="Noticias/News",USA | Cheddar
-http://allinonestr.fans:8080/1534179972/90837722/243049
 #EXTINF:-1 tvg-id="" tvg-name="NHL | Winnipeg Jets" tvg-logo="http://144.217.80.14/photo/WinnipegJets.jpg" group-title="NHL Center Ice",NHL | Winnipeg Jets
 http://allinonestr.fans:8080/1534179972/90837722/241397
 #EXTINF:-1 tvg-id="" tvg-name="NHL | Ottawa Senators" tvg-logo="http://144.217.80.14/photo/OttawaSenators.jpg" group-title="NHL Center Ice",NHL | Ottawa Senators
@@ -2789,8 +2803,6 @@ http://allinonestr.fans:8080/1534179972/90837722/184960
 http://allinonestr.fans:8080/1534179972/90837722/184958
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="http://144.217.80.14/photo/Canal-6.jpg" group-title="Honduras",Canal 6
 http://allinonestr.fans:8080/1534179972/90837722/184956
-#EXTINF:-1 tvg-id="" tvg-name="AR | TYC Sports" tvg-logo="http://144.217.80.14/photo/tycsports.us.jpg" group-title="Deportes/Sports",AR | TYC Sports
-http://allinonestr.fans:8080/1534179972/90837722/184951
 #EXTINF:-1 tvg-id="" tvg-name="AR | Argentinisima" tvg-logo="http://144.217.80.14/photo/Argentinisima.jpg" group-title="Argentina",AR | Argentinisima
 http://allinonestr.fans:8080/1534179972/90837722/184946
 #EXTINF:-1 tvg-id="" tvg-name="CH | Tv Chile" tvg-logo="http://144.217.80.14/photo/tvchile.jpg" group-title="Chile",CH | Tv Chile
@@ -2875,8 +2887,6 @@ http://allinonestr.fans:8080/1534179972/90837722/118189
 http://allinonestr.fans:8080/1534179972/90837722/118188
 #EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO | Canal Capital" tvg-logo="http://144.217.80.14/photo/Canal_Capital.jpg" group-title="Colombia",CO | Canal Capital
 http://allinonestr.fans:8080/1534179972/90837722/118185
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="Win Sports" tvg-logo="http://144.217.80.14/photo/WinSports.jpg" group-title="Deportes/Sports",Win Sports
-http://allinonestr.fans:8080/1534179972/90837722/118184
 #EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO | Teleantioquia" tvg-logo="http://144.217.80.14/photo/Teleantioquia.jpg" group-title="Colombia",CO | Teleantioquia
 http://allinonestr.fans:8080/1534179972/90837722/118182
 #EXTINF:-1 tvg-id="senal.co" tvg-name="CO | Señal Colombia" tvg-logo="http://144.217.80.14/photo/Senal_Colombia.jpg" group-title="Colombia",CO | Señal Colombia
@@ -3071,8 +3081,6 @@ http://allinonestr.fans:8080/1534179972/90837722/3396
 http://allinonestr.fans:8080/1534179972/90837722/3395
 #EXTINF:-1 tvg-id="univision.us" tvg-name="USA | Univision Network" tvg-logo="http://144.217.80.14/photo/univision.us.jpg" group-title="Latinos USA",USA | Univision Network
 http://allinonestr.fans:8080/1534179972/90837722/3394
-#EXTINF:-1 tvg-id="" tvg-name="USA | Law & Crime" tvg-logo="http://144.217.80.14/photo/LAW.jpg" group-title="USA",USA | Law & Crime
-http://allinonestr.fans:8080/1534179972/90837722/3393
 #EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="USA | WFN" tvg-logo="http://144.217.80.14/photo/worldfishingnetwork.us.jpg" group-title="Deportes/Sports",USA | WFN
 http://allinonestr.fans:8080/1534179972/90837722/3392
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="USA | Vice" tvg-logo="http://144.217.80.14/photo/viceland.us.jpg" group-title="USA",USA | Vice
@@ -3093,8 +3101,6 @@ http://allinonestr.fans:8080/1534179972/90837722/3385
 http://allinonestr.fans:8080/1534179972/90837722/3382
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="USA | SYFY" tvg-logo="http://144.217.80.14/photo/SYFY.jpg" group-title="USA",USA | SYFY
 http://allinonestr.fans:8080/1534179972/90837722/3381
-#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA | REVOLT" tvg-logo="http://144.217.80.14/photo/rev.jpg" group-title="USA",USA | REVOLT
-http://allinonestr.fans:8080/1534179972/90837722/3378
 #EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA | Paramount Channel" tvg-logo="http://144.217.80.14/photo/pARAMOUNTNETWORK.jpg" group-title="Movies USA",USA | Paramount Channel
 http://allinonestr.fans:8080/1534179972/90837722/3377
 #EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA | NICKTOONS" tvg-logo="http://144.217.80.14/photo/nicktoo.jpg" group-title="Kids USA",USA | NICKTOONS
@@ -3201,10 +3207,6 @@ http://allinonestr.fans:8080/1534179972/90837722/3325
 http://allinonestr.fans:8080/1534179972/90837722/3323
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="FHD | HBO Signature" tvg-logo="http://144.217.80.14/photo/hbosig.jpg" group-title="Mexico FHD",FHD | HBO Signature
 http://allinonestr.fans:8080/1534179972/90837722/3322
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="http://144.217.80.14/photo/espnnews.jpg" group-title="Deportes/Sports",USA | ESPN News
-http://allinonestr.fans:8080/1534179972/90837722/3321
-#EXTINF:-1 tvg-id="axstv.us" tvg-name="USA | Axs Tv" tvg-logo="http://144.217.80.14/photo/axestv.jpg" group-title="USA",USA | Axs Tv
-http://allinonestr.fans:8080/1534179972/90837722/3317
 #EXTINF:-1 tvg-id="" tvg-name="Teleuniverso" tvg-logo="http://144.217.80.14/photo/Teleuniverso.jpg" group-title="Rep. Dom.",Teleuniverso
 http://allinonestr.fans:8080/1534179972/90837722/3316
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro Internacional" tvg-logo="http://144.217.80.14/photo/TelemicroInternacional.jpg" group-title="Rep. Dom.",Telemicro Internacional
@@ -3219,8 +3221,6 @@ http://allinonestr.fans:8080/1534179972/90837722/3311
 http://allinonestr.fans:8080/1534179972/90837722/3310
 #EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA | Lifetime" tvg-logo="http://144.217.80.14/photo/LIFE.jpg" group-title="USA",USA | Lifetime
 http://allinonestr.fans:8080/1534179972/90837722/3309
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA | Fox Business Network" tvg-logo="http://144.217.80.14/photo/foxbusiness.us.jpg" group-title="Noticias/News",USA | Fox Business Network
-http://allinonestr.fans:8080/1534179972/90837722/3307
 #EXTINF:-1 tvg-id="" tvg-name="Dominican View" tvg-logo="http://144.217.80.14/photo/DominicanView.jpg" group-title="Rep. Dom.",Dominican View
 http://allinonestr.fans:8080/1534179972/90837722/3306
 #EXTINF:-1 tvg-id="" tvg-name="CentroamericaTv" tvg-logo="http://144.217.80.14/photo/CentroamericaTv.jpg" group-title="Latinos USA",CentroamericaTv
@@ -3231,7 +3231,7 @@ http://allinonestr.fans:8080/1534179972/90837722/3304
 http://allinonestr.fans:8080/1534179972/90837722/3303
 #EXTINF:-1 tvg-id="greatamericancountry.us" tvg-name="USA | Great American Country" tvg-logo="http://144.217.80.14/photo/GreatAmericanCountry.jpg" group-title="USA",USA | Great American Country
 http://allinonestr.fans:8080/1534179972/90837722/3301
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FHD | Fox sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="Mexico FHD",FHD | Fox sports 3
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="IZMX | Fox sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="Mexico FHD",IZMX | Fox sports 3
 http://allinonestr.fans:8080/1534179972/90837722/3294
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="IZMX | Fox Sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="Mexico FHD",IZMX | Fox Sports 2
 http://allinonestr.fans:8080/1534179972/90837722/3293
@@ -3295,12 +3295,10 @@ http://allinonestr.fans:8080/1534179972/90837722/3160
 http://allinonestr.fans:8080/1534179972/90837722/3138
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FHD | Fox sports" tvg-logo="http://144.217.80.14/photo/fs1.jpg" group-title="Mexico FHD",FHD | Fox sports
 http://allinonestr.fans:8080/1534179972/90837722/3253
-#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="FHD | ESPN +" tvg-logo="http://144.217.80.14/photo/espn%2B.jpg" group-title="Mexico FHD",FHD | ESPN +
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="IZMX | ESPN +" tvg-logo="http://144.217.80.14/photo/espn%2B.jpg" group-title="Mexico FHD",IZMX | ESPN +
 http://allinonestr.fans:8080/1534179972/90837722/3243
 #EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax" tvg-logo="http://144.217.80.14/photo/banda.jpg" group-title="Mexico SD",SD | Bandamax
 http://allinonestr.fans:8080/1534179972/90837722/3239
-#EXTINF:-1 tvg-id="vh1hd.co" tvg-name="FHD | VH1" tvg-logo="http://144.217.80.14/photo/VH1.jpg" group-title="Mexico FHD",FHD | VH1
-http://allinonestr.fans:8080/1534179972/90837722/3233
 #EXTINF:-1 tvg-id="mtv.mx" tvg-name="FHD | MTV" tvg-logo="http://144.217.80.14/photo/mtv.us.jpg" group-title="Mexico FHD",FHD | MTV
 http://allinonestr.fans:8080/1534179972/90837722/3227
 #EXTINF:-1 tvg-id="tntseries.mx" tvg-name="FHD | TNT Series" tvg-logo="http://144.217.80.14/photo/tntseries.mx.jpg" group-title="Mexico FHD",FHD | TNT Series
@@ -3387,44 +3385,8 @@ http://allinonestr.fans:8080/1534179972/90837722/3057
 http://allinonestr.fans:8080/1534179972/90837722/3056
 #EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA | NBC SPORTS BAY AREA PLUS" tvg-logo="http://144.217.80.14/photo/NBCSN.jpg" group-title="Deportes/Sports",USA | NBC SPORTS BAY AREA PLUS
 http://allinonestr.fans:8080/1534179972/90837722/3055
-#EXTINF:-1 tvg-id="" tvg-name="Toddler-Tunes" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Toddler-Tunes
-http://allinonestr.fans:8080/1534179972/90837722/3040
-#EXTINF:-1 tvg-id="" tvg-name="Kidz-Only" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Kidz-Only
-http://allinonestr.fans:8080/1534179972/90837722/3035
-#EXTINF:-1 tvg-id="" tvg-name="Rock" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Rock
-http://allinonestr.fans:8080/1534179972/90837722/3033
-#EXTINF:-1 tvg-id="" tvg-name="Rap-2K" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Rap-2K
-http://allinonestr.fans:8080/1534179972/90837722/3031
-#EXTINF:-1 tvg-id="" tvg-name="Throwback-Jamz" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Throwback-Jamz
-http://allinonestr.fans:8080/1534179972/90837722/3029
-#EXTINF:-1 tvg-id="" tvg-name="Rap" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Rap
-http://allinonestr.fans:8080/1534179972/90837722/3027
-#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop-and-RYB" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Hip-Hop-and-RYB
-http://allinonestr.fans:8080/1534179972/90837722/3026
 #EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Y2K
 http://allinonestr.fans:8080/1534179972/90837722/3022
-#EXTINF:-1 tvg-id="" tvg-name="Dance/EDM" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Dance/EDM
-http://allinonestr.fans:8080/1534179972/90837722/3021
-#EXTINF:-1 tvg-id="" tvg-name="Teen-Beats" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Teen-Beats
-http://allinonestr.fans:8080/1534179972/90837722/3019
-#EXTINF:-1 tvg-id="" tvg-name="Pop-Hits" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Pop-Hits
-http://allinonestr.fans:8080/1534179972/90837722/3017
-#EXTINF:-1 tvg-id="" tvg-name="Hit-List" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Hit-List
-http://allinonestr.fans:8080/1534179972/90837722/3016
-#EXTINF:-1 tvg-id="" tvg-name="Alternative" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Alternative
-http://allinonestr.fans:8080/1534179972/90837722/3013
-#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Mexicana
-http://allinonestr.fans:8080/1534179972/90837722/3012
-#EXTINF:-1 tvg-id="" tvg-name="Tropicales" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Tropicales
-http://allinonestr.fans:8080/1534179972/90837722/3011
-#EXTINF:-1 tvg-id="" tvg-name="Musica-Urbana" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Musica-Urbana
-http://allinonestr.fans:8080/1534179972/90837722/3010
-#EXTINF:-1 tvg-id="" tvg-name="Pop-Latino" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Pop-Latino
-http://allinonestr.fans:8080/1534179972/90837722/3009
-#EXTINF:-1 tvg-id="" tvg-name="Pop & Country" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Pop & Country
-http://allinonestr.fans:8080/1534179972/90837722/3007
-#EXTINF:-1 tvg-id="" tvg-name="Today-Country" tvg-logo="http://144.217.80.14/photo/musicc.jpg" group-title="Music",Today-Country
-http://allinonestr.fans:8080/1534179972/90837722/3006
 #EXTINF:-1 tvg-id="" tvg-name="XXX | Dorcel" tvg-logo="http://144.217.80.14/photo/xxxDORCELTVHD.jpg" group-title="For Adults",XXX | Dorcel
 http://allinonestr.fans:8080/1534179972/90837722/2996
 #EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="http://144.217.80.14/photo/wipr.jpg" group-title="Puerto Rico",PR | WIPR
@@ -3529,8 +3491,6 @@ http://allinonestr.fans:8080/1534179972/90837722/2915
 http://allinonestr.fans:8080/1534179972/90837722/2913
 #EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | ID" tvg-logo="http://144.217.80.14/photo/ID.jpg" group-title="Mexico SD",SD | ID
 http://allinonestr.fans:8080/1534179972/90837722/2912
-#EXTINF:-1 tvg-id="htv.co" tvg-name="MX | Htv" tvg-logo="http://144.217.80.14/photo/htv.jpg" group-title="Music",MX | Htv
-http://allinonestr.fans:8080/1534179972/90837722/2911
 #EXTINF:-1 tvg-id="history.co" tvg-name="SDMX | History" tvg-logo="http://144.217.80.14/photo/hist.jpg" group-title="Mexico SD",SDMX | History
 http://allinonestr.fans:8080/1534179972/90837722/2910
 #EXTINF:-1 tvg-id="hbofamily.co" tvg-name="SDMX | HBO Family" tvg-logo="http://144.217.80.14/photo/hbof.jpg" group-title="Mexico SD",SDMX | HBO Family
@@ -3549,8 +3509,6 @@ http://allinonestr.fans:8080/1534179972/90837722/2903
 http://allinonestr.fans:8080/1534179972/90837722/2902
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="MX | FX" tvg-logo="http://144.217.80.14/photo/fx.jpg" group-title="Mexico SD",MX | FX
 http://allinonestr.fans:8080/1534179972/90837722/2901
-#EXTINF:-1 tvg-id="" tvg-name="CO | France 24" tvg-logo="http://144.217.80.14/photo/France24.jpg" group-title="Noticias/News",CO | France 24
-http://allinonestr.fans:8080/1534179972/90837722/2900
 #EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="CO | Fox sports 3" tvg-logo="http://144.217.80.14/photo/fs3.jpg" group-title="Deportes/Sports",CO | Fox sports 3
 http://allinonestr.fans:8080/1534179972/90837722/2899
 #EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="CO | Fox sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="Deportes/Sports",CO | Fox sports 2
@@ -3719,8 +3677,6 @@ http://allinonestr.fans:8080/1534179972/90837722/2460
 http://allinonestr.fans:8080/1534179972/90837722/2452
 #EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA | BTN" tvg-logo="http://144.217.80.14/photo/btn.jpg" group-title="Deportes/Sports",USA | BTN
 http://allinonestr.fans:8080/1534179972/90837722/2450
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="USA | VH1" tvg-logo="http://144.217.80.14/photo/VH1.jpg" group-title="Music",USA | VH1
-http://allinonestr.fans:8080/1534179972/90837722/2418
 #EXTINF:-1 tvg-id="tvg2.us" tvg-name="USA | TVG 2" tvg-logo="http://144.217.80.14/photo/TVG2.jpg" group-title="Carreras de Caballos",USA | TVG 2
 http://allinonestr.fans:8080/1534179972/90837722/2399
 #EXTINF:-1 tvg-id="tvg.us" tvg-name="USA | TVG" tvg-logo="http://144.217.80.14/photo/tvg.jpg" group-title="Carreras de Caballos",USA | TVG
@@ -3837,14 +3793,10 @@ http://allinonestr.fans:8080/1534179972/90837722/99
 http://allinonestr.fans:8080/1534179972/90837722/98
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="http://144.217.80.14/photo/fs2.jpg" group-title="Deportes/Sports",USA | Fox Sports 2
 http://allinonestr.fans:8080/1534179972/90837722/95
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX | Fox Channel" tvg-logo="http://144.217.80.14/photo/fox.jpg" group-title="Entretenimiento",MX | Fox Channel
-http://allinonestr.fans:8080/1534179972/90837722/246
 #EXTINF:-1 tvg-id="" tvg-name="MX | A3S" tvg-logo="http://144.217.80.14/photo/A3SER.jpg" group-title="Entretenimiento",MX | A3S
 http://allinonestr.fans:8080/1534179972/90837722/2718
 #EXTINF:-1 tvg-id="proyecto40.mx" tvg-name="MX | ADN40" tvg-logo="http://144.217.80.14/photo/ADN.jpg" group-title="Locales MX",MX | ADN40
 http://allinonestr.fans:8080/1534179972/90837722/2714
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="MX | Adrenalina" tvg-logo="http://144.217.80.14/photo/Adrenalina.jpg" group-title="Deportes/Sports",MX | Adrenalina
-http://allinonestr.fans:8080/1534179972/90837722/2715
 #EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="MX | Afizzionados" tvg-logo="http://144.217.80.14/photo/afizzi.jpg" group-title="Deportes/Sports",MX | Afizzionados
 http://allinonestr.fans:8080/1534179972/90837722/2716
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet" tvg-logo="http://144.217.80.14/photo/anim.jpg" group-title="Entretenimiento",MX | Animal Planet
@@ -3887,12 +3839,8 @@ http://allinonestr.fans:8080/1534179972/90837722/2740
 http://allinonestr.fans:8080/1534179972/90837722/2742
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax" tvg-logo="http://144.217.80.14/photo/cinemax.jpg" group-title="Peliculas",MX | Cinemax
 http://allinonestr.fans:8080/1534179972/90837722/2743
-#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sports" tvg-logo="http://144.217.80.14/photo/clarosp.jpg" group-title="Deportes/Sports",MX | Claro Sports
-http://allinonestr.fans:8080/1534179972/90837722/2744
 #EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="MX | CNN ES" tvg-logo="http://144.217.80.14/photo/cnn.jpg" group-title="Noticias/News",MX | CNN ES
 http://allinonestr.fans:8080/1534179972/90837722/2745
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="MX | Comedy Central" tvg-logo="http://144.217.80.14/photo/comedycentral.mx.jpg" group-title="Entretenimiento",MX | Comedy Central
-http://allinonestr.fans:8080/1534179972/90837722/2746
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel" tvg-logo="http://144.217.80.14/photo/discocan.jpg" group-title="Mundo Y Cultura",MX | Discovery Channel
 http://allinonestr.fans:8080/1534179972/90837722/2750
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX | Discovery HH" tvg-logo="http://144.217.80.14/photo/dischh.jpg" group-title="Entretenimiento",MX | Discovery HH
@@ -3903,12 +3851,8 @@ http://allinonestr.fans:8080/1534179972/90837722/2747
 http://allinonestr.fans:8080/1534179972/90837722/2748
 #EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MX | Discovery Theater" tvg-logo="http://144.217.80.14/photo/theater.jpg" group-title="Mundo Y Cultura",MX | Discovery Theater
 http://allinonestr.fans:8080/1534179972/90837722/2749
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MX | Discovery Turbo" tvg-logo="http://144.217.80.14/photo/dtur.jpg" group-title="Entretenimiento",MX | Discovery Turbo
-http://allinonestr.fans:8080/1534179972/90837722/2753
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World" tvg-logo="http://144.217.80.14/photo/World_Discovery.jpg" group-title="Mundo Y Cultura",MX | Discovery World
 http://allinonestr.fans:8080/1534179972/90837722/2754
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Disney Channel" tvg-logo="http://144.217.80.14/photo/disneychannel.mx.jpg" group-title="Kids MX",MX | Disney Channel
-http://allinonestr.fans:8080/1534179972/90837722/2755
 #EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="MX | Disney JR" tvg-logo="http://144.217.80.14/photo/disneyjunior.mx.jpg" group-title="Kids MX",MX | Disney JR
 http://allinonestr.fans:8080/1534179972/90837722/2756
 #EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="MX | Disney XD" tvg-logo="http://144.217.80.14/photo/XD.jpg" group-title="Kids MX",MX | Disney XD
@@ -3917,8 +3861,6 @@ http://allinonestr.fans:8080/1534179972/90837722/2757
 http://allinonestr.fans:8080/1534179972/90837722/2758
 #EXTINF:-1 tvg-id="depeliculamultiplex.mx" tvg-name="MX | D Pelicula Plus" tvg-logo="http://144.217.80.14/photo/dep.jpg" group-title="Peliculas",MX | D Pelicula Plus
 http://allinonestr.fans:8080/1534179972/90837722/2759
-#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MX | E!" tvg-logo="http://144.217.80.14/photo/E!.jpg" group-title="Entretenimiento",MX | E!
-http://allinonestr.fans:8080/1534179972/90837722/2760
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | ESPN" tvg-logo="http://144.217.80.14/photo/es1.jpg" group-title="Deportes/Sports",MX | ESPN
 http://allinonestr.fans:8080/1534179972/90837722/2762
 #EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | Espn+" tvg-logo="http://144.217.80.14/photo/espn%2B.jpg" group-title="Deportes/Sports",MX | Espn+
@@ -4023,8 +3965,6 @@ http://allinonestr.fans:8080/1534179972/90837722/2820
 http://allinonestr.fans:8080/1534179972/90837722/2821
 #EXTINF:-1 tvg-id="" tvg-name="MX | Sextreme" tvg-logo="http://144.217.80.14/photo/sextreme.jpg" group-title="For Adults",MX | Sextreme
 http://allinonestr.fans:8080/1534179972/90837722/2822
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="MX | Sony" tvg-logo="http://144.217.80.14/photo/sonyentertainmenttv.mx.jpg" group-title="Entretenimiento",MX | Sony
-http://allinonestr.fans:8080/1534179972/90837722/2823
 #EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space" tvg-logo="http://144.217.80.14/photo/space.jpg" group-title="Peliculas",MX | Space
 http://allinonestr.fans:8080/1534179972/90837722/2824
 #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX | Studio Universal" tvg-logo="http://144.217.80.14/photo/StudioUniversal.jpg" group-title="Entretenimiento",MX | Studio Universal
@@ -4039,14 +3979,10 @@ http://allinonestr.fans:8080/1534179972/90837722/2830
 http://allinonestr.fans:8080/1534179972/90837722/2831
 #EXTINF:-1 tvg-id="telemundo.mx" tvg-name="MX | Telemundo Int." tvg-logo="http://144.217.80.14/photo/telemundo.jpg" group-title="Entretenimiento",MX | Telemundo Int.
 http://allinonestr.fans:8080/1534179972/90837722/2833
-#EXTINF:-1 tvg-id="tlc.mx" tvg-name="MX | TLC" tvg-logo="http://144.217.80.14/photo/tlc.us.jpg" group-title="Entretenimiento",MX | TLC
-http://allinonestr.fans:8080/1534179972/90837722/2834
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT" tvg-logo="http://144.217.80.14/photo/tnt.us.jpg" group-title="Entretenimiento",MX | TNT
 http://allinonestr.fans:8080/1534179972/90837722/2836
 #EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series" tvg-logo="http://144.217.80.14/photo/tntseries.mx.jpg" group-title="Entretenimiento",MX | TNT Series
 http://allinonestr.fans:8080/1534179972/90837722/2837
-#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="MX | Tooncast" tvg-logo="http://144.217.80.14/photo/toon.jpg" group-title="Kids MX",MX | Tooncast
-http://allinonestr.fans:8080/1534179972/90837722/2838
 #EXTINF:-1 tvg-id="trutv.mx" tvg-name="MX | TruTv" tvg-logo="http://144.217.80.14/photo/trutv.us.jpg" group-title="Entretenimiento",MX | TruTv
 http://allinonestr.fans:8080/1534179972/90837722/2839
 #EXTINF:-1 tvg-id="" tvg-name="MX | TUDN" tvg-logo="http://144.217.80.14/photo/TUDNMX.jpg" group-title="Deportes/Sports",MX | TUDN
@@ -4065,7 +4001,7 @@ http://allinonestr.fans:8080/1534179972/90837722/3041
 http://allinonestr.fans:8080/1534179972/90837722/3042
 #EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA | Fox soccer Plus" tvg-logo="http://144.217.80.14/photo/foxsoccerplus.us.jpg" group-title="Deportes/Sports",USA | Fox soccer Plus
 http://allinonestr.fans:8080/1534179972/90837722/3043
-#EXTINF:-1 tvg-id="" tvg-name="USA | GINX" tvg-logo="http://144.217.80.14/photo/GINX.jpg" group-title="Zona Gamer",USA | GINX
+#EXTINF:-1 tvg-id="" tvg-name="USA | GINX" tvg-logo="http://144.217.80.14/photo/GINX.jpg" group-title="Kids USA",USA | GINX
 http://allinonestr.fans:8080/1534179972/90837722/3045
 #EXTINF:-1 tvg-id="goltv.us" tvg-name="USA | GOLTV (ENGLISH)" tvg-logo="http://144.217.80.14/photo/goltv.jpg" group-title="Deportes/Sports",USA | GOLTV (ENGLISH)
 http://allinonestr.fans:8080/1534179972/90837722/3046
@@ -4093,11 +4029,11 @@ http://allinonestr.fans:8080/1534179972/90837722/223581
 http://allinonestr.fans:8080/1534179972/90837722/263339
 #EXTINF:-1 tvg-id="" tvg-name="USA | ABC News Live" tvg-logo="http://144.217.80.14/photo/abc%20news.jpg" group-title="Noticias/News",USA | ABC News Live
 http://allinonestr.fans:8080/1534179972/90837722/272318
-#EXTINF:-1 tvg-id="" tvg-name="Ghostheads  (2016)" tvg-logo="http://allinonestr.fans:8080/images/movies//qCVJDQfXjoUeU5G8e1WNvNX9BW.jpg" group-title="4K",Ghostheads  (2016)
-http://miarea.vip:8080/movie/LuisprBlueSpaceMovies/MsRWscyPug/49417.mk
 #EXTINF:-1 tvg-id="" tvg-name="Cocina Tv" tvg-logo="http://144.217.80.14/blim/cocinatv.jpeg" group-title="BlimTv",Cocina Tv
 http://allinonestr.fans:8080/1534179972/90837722/377353
 #EXTINF:-1 tvg-id="" tvg-name="LAMP-Naranjeros" tvg-logo="" group-title="Beis Mexa",LAMP-Naranjeros
 http://allinonestr.fans:8080/1534179972/90837722/424080
 #EXTINF:-1 tvg-id="" tvg-name="Futurama S06 E19" tvg-logo="http://allinonestr.fans:8080/images/series/xvI06KImPFZmlsvCQCnzRWEe4WZ.jpg" group-title="Comedia",Futurama S06 E19
 http://allinonestr.fans:8080/series/1534179972/90837722/57020.flv
+#EXTINF:-1 tvg-id="" tvg-name="Trolls: The Beat Goes On! S06 E03" tvg-logo="http://allinonestr.fans:8080/images/series/4tKWObvxaA977hONCou1wlOnSxC.jpg" group-title="Kids",Trolls: The Beat Goes On! S06 E03
+http://allinonestr.fans:8080/series/1534179972/90837722/2481
